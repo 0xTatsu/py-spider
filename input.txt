@@ -1,7 +1,7 @@
 respondent
 swift
 arthritis
-looming
+loom_1
 languish
 immunize
 succinctly|He found, to put it most succinctly, that children don’t think like grownups.
@@ -14,10 +14,10 @@ converge|diverge
 mangle_1| mangle our code to make a site look the same in every browser
 scrutiny|
 propensity|An individual’s propensity to take risks is influenced by their own experience
-convictions|Adams has made me re-examine my convictions
-collisions|There will be thousands of tiny jets competing for space with remotely operated drones that need help avoiding midair collisions,
+conviction|Adams has made me re-examine my convictions
+collision|There will be thousands of tiny jets competing for space with remotely operated drones that need help avoiding midair collisions,
 almond| Almond is actually a food that is normally considered a confection
-fire brigade
+fire-brigade
 invigilator
 pervade|to permeate/pervade modern society
 unsociable| unsocieable behavior # antisocial behavior
