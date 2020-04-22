@@ -1,112 +1,143 @@
-awash|Vietnam airports awash in red as football fans head for the Philippines
-replete|The walls surrounding her are replete with hundreds of photos of herself in flamboyant costumes
-anew|alike, akin
-pertain|joy pertains to youth (gắn liền với, đi đôi với)
-assertion
-reasoning|[C2] the process of thinking about something in order to make a decision
-elucidate|to explain
-essence|importance
-tranquil
-disfigure
-versed|During her career in marketing, Nhan became well-versed with the social network's impact
-deluge
-barrage|the media’s barrage of attacks on the President’s wife
-superabundance|[formal] a superabundance of energy
-deprive
-forefront
-kindle|to kindle an interest/hope
-wean|thôi cho bú, cai sữa
-attainment|the attainment of a goal
-stride|an important positive development
-augment|to increase => He would have to find work to augment his income
-supplement|(to add ST to ST to make it larger/better) He supplements (adds to) his income by working in a bar at night
-marginalize
-undermine
-subvert
-substitute
-negate|The increase in our profits has been negated by the rising costs of running the business.
-demise
-driven
-unleash
-bar_1|preventing, a lack of formal education is no bar to becoming rich
-prophecy|Thinking small is a self-fulfilling prophecy.
-frugal
-beneath
-cater
-pirate_2
-uplift_2
-concur|agree, correspond, coincide #conflict
-digress
-galore
-genuine
-hostile
-inter
-mitigate|less severe, lessen, soften, relieve
-novice
-original
-rarity|Rain in the Sahara Dessert is a rarity
-suffice
-vacant
-accompany
-artificial|man-made, synthetic, non-natural
-conspicuous|obvious, clear, noticeable
-clime
-cosmic
-inscribe|The falling water level denoted the passing hour as it dipped below hour lines inscribed on the inner surface
-calibrate|to make, adjust, or check the setting (= the position) of the controls used to make measurements with a tool or measuring device:
-fortuitous
-accommodate|the same kind of structure was needed to accommodate all of them.
-blanket_3
-realm
-correspond
-cruise_2
-telepathy
-sceptic|cynic, doubter, questioner #believer.
-faint_1
-swamp_2
-recline
-seal|in a sealed room
-beam_2|to beam the image over to the receiver
-overlook
-conventional
-leakage
-outright
-put-forward|various theories have been put forward
-esoteric
-entanglement|While physicists have demonstrated entanglement with specially prepared atoms
-probe_2|the future lies not in collecting more evidence for telepathy, but in probing possible mechanisms.
-molten|this becomes a molten mass that hardens when slowly cooled
-unblemished|it stayed perfectly unblemished
-tinted
-roller
-coat_2
-marketable
-optical|Float plants today make glass of near optical quality
-homogeneous
-furnace|heater, boiler, oven
-mar|spoil, ruin
-unaided
-dazzling
-opportunism
-unaccustomed|unfamiliar, unusual
-see-saw_1
-supplement
-amplify
-voyager
-uniform_2
-reroute
-perish
-offshore|onshore
-fodder
-blight
-clearance|unprecedented land clearance
-aroma
-odour
-faculty|when the faculty of smell is impaired for some reason
-grimace| one associated with a bad memory may make us grimace with disgust
-feeble|the human sense of smell is feeble and undeveloped
-acute|very sensitive and well developed => Dogs have an acute sense of smell. (keen)
-elusive
-proper|one responding to odours proper
-inevitably
-intimate|private, personal, secret, #public
+invert|turn upside down, turn over, double back
+frugal|careful, cautious, sparing, #extravagant
+parrot
+lethargy|weariness, tiredness, #energy. Animals which save energy by hibernation or lethargy
+comrade|(companion, friend, buddymate) They then may live twice as long as their well fed comrades
+equable|someone who is equable remains calm and happy and does not often get annoyed.
+attainment|=> attainers, achievement, accomplishment, fulfillment, #failure
+centralize
+elaborate_2|the teachers comment, correct or elaborate as necessary
+supplementary|additional , extra, added
+homogeneity|consistency, regularity, #unevenness
+circulate|the teacher would circulate and make sure that all the pupils were coping well.
+unjustified|unfair, unwarranted, #justified
+tuition|private evening tuition
+pest|bug, insect, vermin
+ecological|Apart from engendering widespread ecological disorders
+lethal|deadly, dangerous, harmful, #life-giving, highly lethal superbugs
+insecticide|pesticide, insect repellent, bug juice, fly spray (cid=kill)
+glaring|One glaring disadvantage of pesticides’ application is that
+withstand|resist, endure, survive, tolerate
+bear| bear offspring with a built-in resistance to pesticides. (produce, give birth to, bring into being)
+havoc|chaos, mayhem, #order) The havoc that the ‘treadmill syndrome’ can bring about is well illustrated 
+treadmill|routine, drudgery, grindstone) This results in what agroecologists call the ‘treadmill syndrome’
+syndrome|condition, disease, set of symptoms) This results in what agroecologists call the ‘treadmill syndrome’
+bask|enjoy, savor, relish, luxuriate
+glory|vinh quang
+avidly|keenly, enthusiastically, eagerly, #indifferently)the farmers avidly took to pesticides as a sure measure to boost crop yield
+yield|produce, generate, harvest
+spray|necessitating pesticide spraying to such an extent that ...
+outlay|spending, expenditure, costs, expenses, outgoings, outlay, overheads.
+invasion|attack, raid, arrival, #withdrawal
+genetically|innately, natively, naturally
+peril|danger, threat, risk, hazard, #safety) In the face of the escalating perils from indiscriminate applications of pesticides
+indiscriminate|unselective, random, #selective) In the face of the escalating perils from indiscriminate applications of pesticides
+perpetual|lasting, continual, frequently repeated, in a way that is annoying) perpetual control system with a minimum of detrimental side-effects.
+obnoxious|to control the obnoxious parthenium weed
+weevil|a small insect that feeds on grain, flour etc and spoils it.)to control the obnoxious parthenium weed
+devious|deceitful, underhanded, sly
+nuisance|annoyance, bother, irritation
+plague_2|afflict, cause suffering to, trouble.) coconut groves were plagued by leaf-mining hispides
+grove|coconut/orange/lemon groves vườn dừa
+devour|demolish, consume, eat greedily, destroy .(de=removing .i.e decline, decrease)
+forage|food, fodder, feed (thức ăn gia súc)
+beetle|an insect with a round hard back that is usually black.
+infest|invaded, filled, infected
+bait|food used to attract fish, animals, or birds so that you can catch them. - using baits to attract the ants
+rotten|(of food, wood, etc.) that has decayed and cannot be eaten or used
+nocturnal|nighttime, nightly, #diurnal
+aspirator|An instrument or apparatus for aspirating fluid from a vessel or cavity
+forceps|a medical instrument used for picking up and holding things.
+moisten|= wet, dampen, moisturize, humidify
+sting|bite, tingle, bite mark, puncture
+mishandle|mismanage, misuse, mess up
+debris|Many ants are small and forage primarily in the layer of leaves and other debris on the ground
+funnel|cai pheu
+marshy|muddy, wet, boggy, #dry (mar= water,sea .i.e marine,sub marine)
+sift|(sieve, filter, separate) A method of improving the catch when using a funnel is to sift the leaf litter through a screen
+coarse|rough, uneven, bumpy, rugged
+twig|a small very thin stem of wood that grows from a branch on a tree.
+pitfall|a problem or difficulty that is likely to happen in a particular job, course of action, or activity.
+diameter|width, length, breadth
+fatigue| met moi
+stockpile
+penultimate
+distil|We distilled lessons learned from our work
+spotlight|his efforts have helped put a spotlight on the waste issue nationally.
+taxonomy
+variation|to allow the determination of variation within species (bien the)
+specimen|sample - the ecologist often collects only a limited number of specimens of each species
+trunk|on tree trunks and under bark (than cay)
+vial
+preservative|chat bao quan???
+coordinate|introducing calendars to coordinate communal activities
+successive|the successive periods 
+equator 
+egyptian
+span
+equinox
+greek
+beat|Today, highly accurate timekeeping instruments set the beat for most electronic devices
+oversee|supervise, the Federal Aviation Administration (FAA) to regulate and oversee the operation of aircraft in the skies over the United States
+govern|govern the vicinity of airports
+swamp|that were so faint that they were usually swamped by normal brain activity
+pilot|a pilot plant 
+inclusion|from a ribbon frequently marred by inclusions and bubbles to almost optical perfection
+olfactory|The sense of smell, or olfaction, is powerful
+regard|the low regard
+feeble|in comparison with its importance among animals, the human sense of smell is feeble and undeveloped
+implication
+neutralize|they have tested strategies for neutralising the power of thunderstorms
+armoury|equipped with an armoury of lasers 
+declutter
+disinfect|clean and disinfect high-touch areas of the house
+mop|mop the floor with floor cleaner/detergent
+drain|clean the kitchen sink and drain 
+scrub|scrub the toilet
+water|water the plant
+conductor|The mirror would be protected by placing lightning conductors close by.
+nifty|no nifty portable
+offing|in the offing
+mighty|scientists could find out what happens when mighty currents meet matter
+menace|we’ll be able to confront some other meteorological menaces.
+hail_2|We think we could prevent hail by inducing lightning
+hailstone|preventing the formation of the giant hailstones that threaten crops
+cult|comes from the early Roman cult of a divinity as the head of the family.
+paterfamilias
+perpetuate
+thence 
+astrology|astrology or genetics
+folk|folk culture
+egghead|a person, especially a man, who is very clever => highbrow
+boffin
+denigration|for many, ‘intellectual’ is a term of denigration.
+collate|information is collated about early illnesses
+nobility|home tutoring was common in the families of the nobility and wealthy
+corporal|bullying and corporal punishment were common at the best independent schools
+supremacy|This does not minimise the supremacy of their achievements
+unpalatable|some of the things we learn from geniuses may prove unpalatable
+perseverance|we should also recognise the price they may have paid in terms of perseverance, single-mindedness
+single-mindedness|single-minded
+integrity|to display great courage to preserve their integrity or to make their way to the top
+subject-to|object to
+wear-down|the basic material is worn down  and becomes older
+fury
+bear-up
+brew_1|portable enough to be taken to international sporting events to beam up at brewing storm clouds.
+denigrate|for many, ‘intellectual’ is a term of denigration.
+privileged
+pediatric
+mist
+hard-won
+outrageous
+fabric
+outstrip|outdo, surpass, better, do better.
+inexorable|the result of this law is not inexorable in the same way. (unstoppable, inevitable, unavoidable.)
+attain|Although more and more people attain an advanced age as a result of developments in medical care and better nutrition
+equilibrium|steadiness, balance, stability, #imbalance
+existent|in existence, extant, current
+immortality|the state of living forever or being remembered forever.
+striking|outstanding, prominent, noticeable
+parameter|limitation, boundary, restriction.
+mammoth|enormous, massive, immense, huge, # tiny
+fahrenheit_1

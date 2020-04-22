@@ -43,7 +43,8 @@ err = list()
 with open(input_file) as rfile:
     for line in rfile:
         line_list = line.rstrip('\n').split('|')
-        data = get_oxford(line_list[0])
+        print('processing... '+line_list[0])
+        data = get_oxford(line_list[0].lower())
         if (data):
             if (len(line_list) > 1):
                 data = data + line_list[1]
