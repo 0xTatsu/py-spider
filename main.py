@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import ssl
 
+
 def get_oxford(w):
     try:
         url = 'https://www.oxfordlearnersdictionaries.com/definition/english/'
@@ -12,13 +13,17 @@ def get_oxford(w):
 
         word = soup.select('h1[class="headword"]')[0].getText()
         # get word type: noun, verb, adj, adv ...
-        wordType = soup.select('span[class="pos"]')[0].getText()
+        wordTypeSelect = soup.select('span[class="pos"]')
+        wordType = wordTypeSelect[0].getText() if len(
+            wordTypeSelect) > 0 else ''
         # word ipa
         phonetic = soup.select('div[class="phons_n_am"] span[class="phon"]')
         amerian_ipa = phonetic[0].getText() if len(phonetic) > 0 else ''
-        amerian_mp3 = soup.find('div', {"class": "pron-us"})['data-src-mp3']  # audio
+        amerian_mp3 = soup.find(
+            'div', {"class": "pron-us"})['data-src-mp3']  # audio
         audio_name = word + '_' + wordType + '_' + 'us.mp3'
-        urllib.request.urlretrieve(amerian_mp3, audio_dir + audio_name)  # download
+        urllib.request.urlretrieve(
+            amerian_mp3, audio_dir + audio_name)  # download
         audio = '[sound:' + audio_name + ']'
 
         return word + separator + wordType + separator + amerian_ipa + separator + audio + separator
@@ -30,6 +35,7 @@ def get_oxford(w):
         print('====================ERROR: ' + w)
         # print(urllib.error.HTTPError)
         return
+
 
 separator = '@'
 input_file = 'input.txt'

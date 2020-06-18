@@ -1,143 +1,384 @@
-invert@verb@/ɪnˈvɜːrt/@[sound:invert_verb_us.mp3]@turn upside down, turn over, double back
-frugal@adjective@/ˈfruːɡl/@[sound:frugal_adjective_us.mp3]@careful, cautious, sparing, #extravagant
-parrot@noun@/ˈpærət/@[sound:parrot_noun_us.mp3]@
-lethargy@noun@/ˈleθərdʒi/@[sound:lethargy_noun_us.mp3]@weariness, tiredness, #energy. Animals which save energy by hibernation or lethargy
-comrade@noun@/ˈkɑːmræd/@[sound:comrade_noun_us.mp3]@(companion, friend, buddymate) They then may live twice as long as their well fed comrades
-equable@adjective@/ˈekwəbl/@[sound:equable_adjective_us.mp3]@someone who is equable remains calm and happy and does not often get annoyed.
-attainment@noun@/əˈteɪnmənt/@[sound:attainment_noun_us.mp3]@=> attainers, achievement, accomplishment, fulfillment, #failure
-centralize@verb@/ˈsentrəlaɪz/@[sound:centralize_verb_us.mp3]@
-elaborate@verb@/ɪˈlæbəreɪt/@[sound:elaborate_verb_us.mp3]@the teachers comment, correct or elaborate as necessary
-supplementary@adjective@/ˌsʌplɪˈmentri/@[sound:supplementary_adjective_us.mp3]@additional , extra, added
-homogeneity@noun@/ˌhəʊməʊdʒəˈniːəti/@[sound:homogeneity_noun_us.mp3]@consistency, regularity, #unevenness
-circulate@verb@/ˈsɜːrkjəleɪt/@[sound:circulate_verb_us.mp3]@the teacher would circulate and make sure that all the pupils were coping well.
-unjustified@adjective@/ˌʌnˈdʒʌstɪfaɪd/@[sound:unjustified_adjective_us.mp3]@unfair, unwarranted, #justified
-tuition@noun@/tuˈɪʃn/@[sound:tuition_noun_us.mp3]@private evening tuition
-pest@noun@/pest/@[sound:pest_noun_us.mp3]@bug, insect, vermin
-ecological@adjective@/ˌiːkəˈlɑːdʒɪkl/@[sound:ecological_adjective_us.mp3]@Apart from engendering widespread ecological disorders
-lethal@adjective@/ˈliːθl/@[sound:lethal_adjective_us.mp3]@deadly, dangerous, harmful, #life-giving, highly lethal superbugs
-insecticide@noun@/ɪnˈsektɪsaɪd/@[sound:insecticide_noun_us.mp3]@pesticide, insect repellent, bug juice, fly spray (cid=kill)
-glaring@adjective@/ˈɡlerɪŋ/@[sound:glaring_adjective_us.mp3]@One glaring disadvantage of pesticides’ application is that
-withstand@verb@/wɪðˈstænd/@[sound:withstand_verb_us.mp3]@resist, endure, survive, tolerate
-bear@verb@/ber/@[sound:bear_verb_us.mp3]@ bear offspring with a built-in resistance to pesticides. (produce, give birth to, bring into being)
-havoc@noun@/ˈhævək/@[sound:havoc_noun_us.mp3]@chaos, mayhem, #order) The havoc that the ‘treadmill syndrome’ can bring about is well illustrated 
-treadmill@noun@/ˈtredmɪl/@[sound:treadmill_noun_us.mp3]@routine, drudgery, grindstone) This results in what agroecologists call the ‘treadmill syndrome’
-syndrome@noun@/ˈsɪndrəʊm/@[sound:syndrome_noun_us.mp3]@condition, disease, set of symptoms) This results in what agroecologists call the ‘treadmill syndrome’
-bask@verb@/bæsk/@[sound:bask_verb_us.mp3]@enjoy, savor, relish, luxuriate
-glory@noun@/ˈɡlɔːri/@[sound:glory_noun_us.mp3]@vinh quang
-avidly@adverb@/ˈævɪdli/@[sound:avidly_adverb_us.mp3]@keenly, enthusiastically, eagerly, #indifferently)the farmers avidly took to pesticides as a sure measure to boost crop yield
-yield@noun@/jiːld/@[sound:yield_noun_us.mp3]@produce, generate, harvest
-spray@noun@/spreɪ/@[sound:spray_noun_us.mp3]@necessitating pesticide spraying to such an extent that ...
-outlay@noun@/ˈaʊtleɪ/@[sound:outlay_noun_us.mp3]@spending, expenditure, costs, expenses, outgoings, outlay, overheads.
-invasion@noun@/ɪnˈveɪʒn/@[sound:invasion_noun_us.mp3]@attack, raid, arrival, #withdrawal
-genetically@adverb@/dʒəˈnetɪkli/@[sound:genetically_adverb_us.mp3]@innately, natively, naturally
-peril@noun@/ˈperəl/@[sound:peril_noun_us.mp3]@danger, threat, risk, hazard, #safety) In the face of the escalating perils from indiscriminate applications of pesticides
-indiscriminate@adjective@/ˌɪndɪˈskrɪmɪnət/@[sound:indiscriminate_adjective_us.mp3]@unselective, random, #selective) In the face of the escalating perils from indiscriminate applications of pesticides
-perpetual@adjective@/pərˈpetʃuəl/@[sound:perpetual_adjective_us.mp3]@lasting, continual, frequently repeated, in a way that is annoying) perpetual control system with a minimum of detrimental side-effects.
-obnoxious@adjective@/əbˈnɑːkʃəs/@[sound:obnoxious_adjective_us.mp3]@to control the obnoxious parthenium weed
-weevil@noun@/ˈwiːvl/@[sound:weevil_noun_us.mp3]@a small insect that feeds on grain, flour etc and spoils it.)to control the obnoxious parthenium weed
-devious@adjective@/ˈdiːviəs/@[sound:devious_adjective_us.mp3]@deceitful, underhanded, sly
-nuisance@noun@/ˈnuːsns/@[sound:nuisance_noun_us.mp3]@annoyance, bother, irritation
-plague@verb@/pleɪɡ/@[sound:plague_verb_us.mp3]@afflict, cause suffering to, trouble.) coconut groves were plagued by leaf-mining hispides
-grove@noun@/ɡrəʊv/@[sound:grove_noun_us.mp3]@coconut/orange/lemon groves vườn dừa
-devour@verb@/dɪˈvaʊər/@[sound:devour_verb_us.mp3]@demolish, consume, eat greedily, destroy .(de=removing .i.e decline, decrease)
-forage@verb@/ˈfɔːrɪdʒ/@[sound:forage_verb_us.mp3]@food, fodder, feed (thức ăn gia súc)
-beetle@noun@/ˈbiːtl/@[sound:beetle_noun_us.mp3]@an insect with a round hard back that is usually black.
-infest@verb@/ɪnˈfest/@[sound:infest_verb_us.mp3]@invaded, filled, infected
-bait@noun@/beɪt/@[sound:bait_noun_us.mp3]@food used to attract fish, animals, or birds so that you can catch them. - using baits to attract the ants
-rotten@adjective@/ˈrɑːtn/@[sound:rotten_adjective_us.mp3]@(of food, wood, etc.) that has decayed and cannot be eaten or used
-nocturnal@adjective@/nɑːkˈtɜːrnl/@[sound:nocturnal_adjective_us.mp3]@nighttime, nightly, #diurnal
-aspirator@noun@/ˈæspɪreɪtər/@[sound:aspirator_noun_us.mp3]@An instrument or apparatus for aspirating fluid from a vessel or cavity
-forceps@noun@/ˈfɔːrseps/@[sound:forceps_noun_us.mp3]@a medical instrument used for picking up and holding things.
-moisten@verb@/ˈmɔɪsn/@[sound:moisten_verb_us.mp3]@= wet, dampen, moisturize, humidify
-sting@verb@/stɪŋ/@[sound:sting_verb_us.mp3]@bite, tingle, bite mark, puncture
-mishandle@verb@/ˌmɪsˈhændl/@[sound:mishandle_verb_us.mp3]@mismanage, misuse, mess up
-debris@noun@/dəˈbriː/@[sound:debris_noun_us.mp3]@Many ants are small and forage primarily in the layer of leaves and other debris on the ground
-funnel@noun@/ˈfʌnl/@[sound:funnel_noun_us.mp3]@cai pheu
-marshy@adjective@/ˈmɑːrʃi/@[sound:marshy_adjective_us.mp3]@muddy, wet, boggy, #dry (mar= water,sea .i.e marine,sub marine)
-sift@verb@/sɪft/@[sound:sift_verb_us.mp3]@(sieve, filter, separate) A method of improving the catch when using a funnel is to sift the leaf litter through a screen
-coarse@adjective@/kɔːrs/@[sound:coarse_adjective_us.mp3]@rough, uneven, bumpy, rugged
-twig@noun@/twɪɡ/@[sound:twig_noun_us.mp3]@a small very thin stem of wood that grows from a branch on a tree.
-pitfall@noun@/ˈpɪtfɔːl/@[sound:pitfall_noun_us.mp3]@a problem or difficulty that is likely to happen in a particular job, course of action, or activity.
-diameter@noun@/daɪˈæmɪtər/@[sound:diameter_noun_us.mp3]@width, length, breadth
-fatigue@noun@/fəˈtiːɡ/@[sound:fatigue_noun_us.mp3]@ met moi
-stockpile@noun@/ˈstɑːkpaɪl/@[sound:stockpile_noun_us.mp3]@
-penultimate@adjective@/pəˈnʌltɪmət/@[sound:penultimate_adjective_us.mp3]@
-distil@verb@/dɪˈstɪl/@[sound:distil_verb_us.mp3]@We distilled lessons learned from our work
-spotlight@noun@/ˈspɑːtlaɪt/@[sound:spotlight_noun_us.mp3]@his efforts have helped put a spotlight on the waste issue nationally.
-taxonomy@noun@/tækˈsɑːnəmi/@[sound:taxonomy_noun_us.mp3]@
-variation@noun@/ˌveriˈeɪʃn/@[sound:variation_noun_us.mp3]@to allow the determination of variation within species (bien the)
-specimen@noun@/ˈspesɪmən/@[sound:specimen_noun_us.mp3]@sample - the ecologist often collects only a limited number of specimens of each species
-trunk@noun@/trʌŋk/@[sound:trunk_noun_us.mp3]@on tree trunks and under bark (than cay)
-vial@noun@/ˈvaɪəl/@[sound:vial_noun_us.mp3]@
-preservative@adjective@/prɪˈzɜːrvətɪv/@[sound:preservative_adjective_us.mp3]@chat bao quan???
-coordinate@verb@/kəʊˈɔːrdɪneɪt/@[sound:coordinate_verb_us.mp3]@introducing calendars to coordinate communal activities
-successive@adjective@/səkˈsesɪv/@[sound:successive_adjective_us.mp3]@the successive periods 
+stumble across@phrasal verb@@[sound:stumble across_phrasal verb_us.mp3]@But it was a chance stumbling upon a run-down, yet functional, laboratory
+solidify@verb@/səˈlɪdɪfaɪ/@[sound:solidify_verb_us.mp3]@that solidified the young man’s enthusiasm for chemistry (strengthen?)
+perceive@verb@/pərˈsiːv/@[sound:perceive_verb_us.mp3]@His talent and devotion to the subject were perceived by his teacher
+eminent@adjective@/ˈemɪnənt/@[sound:eminent_adjective_us.mp3]@to attend a series of lectures given by the eminent scientist 
+head@verb@/hed/@[sound:head_verb_us.mp3]@the Royal College of Chemistry was headed by the noted German chemist
+viable@adjective@/ˈvaɪəbl/@[sound:viable_adjective_us.mp3]@At the time, quinine was the only viable medical treatment for malaria.
+passing@adjective@/ˈpæsɪŋ/@[sound:passing_adjective_us.mp3]@H made some passing comments abt...
+desirability@noun@/dɪˌzaɪərəˈbɪləti/@[sound:desirability_noun_us.mp3]@Hofmann made some passing comments about the desirability of a synthetic substitute
+incorporate@verb@/ɪnˈkɔːrpəreɪt/@[sound:incorporate_verb_us.mp3]@incorporating = merged, include, combine
+excretion@noun@/ɪkˈskriːʃn/@[sound:excretion_noun_us.mp3]@Historically, textile dyes were made from such natural sources as plants and animal excretions (bai tiet)
+outrageously@adverb@/aʊtˈreɪdʒəsli/@[sound:outrageously_adverb_us.mp3]@were difficult to obtain and outrageously expensive
+muddy@adjective@/ˈmʌdi/@[sound:muddy_adjective_us.mp3]@natural dyes tended to be muddy in hue and fade quickly.
+backdrop@noun@/ˈbækdrɑːp/@[sound:backdrop_noun_us.mp3]@It was against this backdrop that Perkin’s discovery was made. (cơ sở, nên tảng)
+objection@noun@/əbˈdʒekʃn/@[sound:objection_noun_us.mp3]@over the fierce objections of his mentor Hofmann, he left college to give birth to the modern chemical industry.
+empress@noun@/ˈemprəs/@[sound:empress_noun_us.mp3]@emperor
+flatter@verb@/ˈflætər/@[sound:flatter_verb_us.mp3]@when she decided the new colour flattered her
+fast@adjective@/fæst/@[sound:fast_adjective_us.mp3]@colours in clothes - not likely to change or to come out when washed
+clamour@verb@/ˈklæmər/@[sound:clamour_verb_us.mp3]@The dye was bold and fast, and the public clamoured for more. (to demand something loudy)
+stain@verb@/steɪn/@[sound:stain_verb_us.mp3]@they were used to stain previously invisible microbes and bacteria
+poised@adjective@/pɔɪzd/@[sound:poised_adjective_us.mp3]@we may now stand poised on the brink of the answer to that question (= ready)
+acronym@noun@/ˈækrənɪm/@[sound:acronym_noun_us.mp3]@This search, often known by the acronym SET!
+intermittently@adverb@/ˌɪntərˈmɪtəntli/@[sound:intermittently_adverb_us.mp3]@Although groups around the world have been searching intermittently for three decades
+tenuous@adjective@/ˈtenjuəs/@[sound:tenuous_adjective_us.mp3]@nuclear war and pollution over the last few decades have told us that our survival may be tenuous.
+inconceivable@adjective@/ˌɪnkənˈsiːvəbl/@[sound:inconceivable_adjective_us.mp3]@ it seems inconceivable that at least one of these planets does not have a life form on it
+attenuated@adjective@/əˈtenjueɪtɪd/@[sound:attenuated_adjective_us.mp3]@sending information across the galaxy are severely attenuated while traversing the vast distances across the galaxy.
+enterprising@adjective@/ˈentərpraɪzɪŋ/@[sound:enterprising_adjective_us.mp3]@enterprising individuals within many different animal groups moved out onto the land
+parched@adjective@/pɑːrtʃt/@[sound:parched_adjective_us.mp3]@sometimes even to the most parched deserts
+scorpion@noun@/ˈskɔːrpiən/@[sound:scorpion_noun_us.mp3]@
+thoroughgoing@adjective@/ˌθɜːrəʊˈɡəʊɪŋ/@[sound:thoroughgoing_adjective_us.mp3]@a good number of thoroughgoing land animals later turned around
+retool@verb@/ˌriːˈtuːl/@[sound:retool_verb_us.mp3]@abandoned their hard-earned terrestrial re-tooling, and returned to the water again.
+seal@verb@/siːl/@[sound:seal_verb_us.mp3]@Seals have only gone part way back.
+gill1@noun@/ɡɪl/@[sound:gill1_noun_us.mp3]@
+fin@noun@/fɪn/@[sound:fin_noun_us.mp3]@
+incarnation@noun@/ˌɪnkɑːrˈneɪʃn/@[sound:incarnation_noun_us.mp3]@having never developed anything equivalent to the gills of their earlier marine incarnation.
+vertebrate@adjective@/ˈvɜːrtɪbrət/@[sound:vertebrate_adjective_us.mp3]@be vertebrate/inverterbrate: có xương sống/không có xương sống
+returnee@noun@/rɪˌtɜːrˈniː/@[sound:returnee_noun_us.mp3]@a person who returns to their own country (người hồi hương)
+be descended from@phrasal verb@@[sound:be descended from_phrasal verb_us.mp3]@all modern turtles are descended from a terrestrial ancestor which lived before most of the dinosaurs
+ancestry@noun@/ˈænsestri/@[sound:ancestry_noun_us.mp3]@
+foreleg@noun@/ˈfɔːrleɡ/@[sound:foreleg_noun_us.mp3]@forelimb
+plot@noun@/plɑːt/@[sound:plot_noun_us.mp3]@They used a kind of triangular graph paper to plot the three measurements against one another
+deficit@noun@/ˈdefɪsɪt/@[sound:deficit_noun_us.mp3]@Hearing impairment or other auditory function deficit in young children 
+impairment@noun@/ɪmˈpermənt/@[sound:impairment_noun_us.mp3]@Hearing impairment or other auditory function deficit in young children
+preliminary@adjective@/prɪˈlɪmɪneri/@[sound:preliminary_adjective_us.mp3]@A preliminary study 
+reverberation@noun@/rɪˌvɜːrbəˈreɪʃn/@[sound:reverberation_noun_us.mp3]@to evaluate noise and reverberation control for school rooms.
+autistic@adjective@/ɔːˈtɪstɪk/@[sound:autistic_adjective_us.mp3]@
+neurological@adjective@/ˌnʊrəˈlɑːdʒɪkl/@[sound:neurological_adjective_us.mp3]@a neurological and genetic life-long disorder
+interlink@verb@/ˌɪntərˈlɪŋk/@[sound:interlink_verb_us.mp3]@This disorder is characterised by interlinking problems with social imagination
+relate@verb@/rɪˈleɪt/@[sound:relate_verb_us.mp3]@this affects the ability to understand and relate in typical ways to people
+distressing@adjective@/dɪˈstresɪŋ/@[sound:distressing_adjective_us.mp3]@the noise generated by machinery painful and distressing.
+quantify@verb@/ˈkwɑːntɪfaɪ/@[sound:quantify_verb_us.mp3]@
+intrusive@adjective@/ɪnˈtruːsɪv/@[sound:intrusive_adjective_us.mp3]@a child who finds any type of noise in their classroom or learning space intrusive is likely to be adversely affected in their ability to process information.
+consultation@noun@/ˌkɑːnslˈteɪʃn/@[sound:consultation_noun_us.mp3]@ a wide-range consultation process
+promulgate@verb@/ˈprɑːmlɡeɪt/@[sound:promulgate_verb_us.mp3]@It is imperative that the needs of these children are taken into account in the setting of appropriate international standards to be promulgated in future.
+inch@verb@/ɪntʃ/@[sound:inch_verb_us.mp3]@the planet Venus steadily inched its way over the surface of the Sun.
+astronomer@noun@/əˈstrɑːnəmər/@[sound:astronomer_noun_us.mp3]@
+alleged@adjective@/əˈledʒd/@[sound:alleged_adjective_us.mp3]@where – it is alleged – the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations
+schoolmistress@noun@/ˈskuːlmɪstrəs/@[sound:schoolmistress_noun_us.mp3]@
+polymath@noun@/ˈpɑːlimæθ/@[sound:polymath_noun_us.mp3]@
+innermost@adjective@/ˈɪnərməʊst/@[sound:innermost_adjective_us.mp3]@Halley observed a transit of the innermost planet
+desolate@adjective@/ˈdesələt/@[sound:desolate_adjective_us.mp3]@from the desolate island of St Helena in the South Pacific.
+latitude@noun@/ˈlætɪtuːd/@[sound:latitude_noun_us.mp3]@
+govern@verb@/ˈɡʌvərn/@[sound:govern_verb_us.mp3]@the distances of the planets from the Sun governed their orbital speeds,
+orbital@adjective@/ˈɔːrbɪtl/@[sound:orbital_adjective_us.mp3]@the distances of the planets from the Sun governed their orbital speeds,
+expedition@noun@/ˌekspəˈdɪʃn/@[sound:expedition_noun_us.mp3]@astronomers set out on expeditions to places as diverse as India and Siberia.
+set out@phrasal verb@@[sound:set out_phrasal verb_us.mp3]@astronomers set out on expeditions 
+thwart@verb@/θwɔːrt/@[sound:thwart_verb_us.mp3]@He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India
+besiege@verb@/bɪˈsiːdʒ/@[sound:besiege_verb_us.mp3]@He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India
+pitch@verb@/pɪtʃ/@[sound:pitch_verb_us.mp3]@the ship’s pitching and rolling ruled out any attempt at making accurate observations.
+undaunted@adjective@/ˌʌnˈdɔːntɪd/@[sound:undaunted_adjective_us.mp3]@
 equator@noun@/ɪˈkweɪtər/@[sound:equator_noun_us.mp3]@
-Egyptian@noun, adjective@/iˈdʒɪpʃn/@[sound:Egyptian_noun, adjective_us.mp3]@
-span@verb@/spæn/@[sound:span_verb_us.mp3]@
-equinox@noun@/ˈekwɪnɑːks/@[sound:equinox_noun_us.mp3]@
-Greek@noun@/ɡriːk/@[sound:Greek_noun_us.mp3]@
-beat@verb@/biːt/@[sound:beat_verb_us.mp3]@Today, highly accurate timekeeping instruments set the beat for most electronic devices
-oversee@verb@/ˌəʊvərˈsiː/@[sound:oversee_verb_us.mp3]@supervise, the Federal Aviation Administration (FAA) to regulate and oversee the operation of aircraft in the skies over the United States
-govern@verb@/ˈɡʌvərn/@[sound:govern_verb_us.mp3]@govern the vicinity of airports
-swamp@noun@/swɑːmp/@[sound:swamp_noun_us.mp3]@that were so faint that they were usually swamped by normal brain activity
-pilot@noun@/ˈpaɪlət/@[sound:pilot_noun_us.mp3]@a pilot plant 
-inclusion@noun@/ɪnˈkluːʒn/@[sound:inclusion_noun_us.mp3]@from a ribbon frequently marred by inclusions and bubbles to almost optical perfection
-olfactory@adjective@/ɑːlˈfæktəri/@[sound:olfactory_adjective_us.mp3]@The sense of smell, or olfaction, is powerful
-regard@verb@/rɪˈɡɑːrd/@[sound:regard_verb_us.mp3]@the low regard
-feeble@adjective@/ˈfiːbl/@[sound:feeble_adjective_us.mp3]@in comparison with its importance among animals, the human sense of smell is feeble and undeveloped
-implication@noun@/ˌɪmplɪˈkeɪʃn/@[sound:implication_noun_us.mp3]@
-neutralize@verb@/ˈnuːtrəlaɪz/@[sound:neutralize_verb_us.mp3]@they have tested strategies for neutralising the power of thunderstorms
-armoury@noun@/ˈɑːrməri/@[sound:armoury_noun_us.mp3]@equipped with an armoury of lasers 
-declutter@verb@/diːˈklʌtər/@[sound:declutter_verb_us.mp3]@
-disinfect@verb@/ˌdɪsɪnˈfekt/@[sound:disinfect_verb_us.mp3]@clean and disinfect high-touch areas of the house
-mop@noun@/mɑːp/@[sound:mop_noun_us.mp3]@mop the floor with floor cleaner/detergent
-drain@verb@/dreɪn/@[sound:drain_verb_us.mp3]@clean the kitchen sink and drain 
-scrub@verb@/skrʌb/@[sound:scrub_verb_us.mp3]@scrub the toilet
-water@noun@/ˈwɔːtər/@[sound:water_noun_us.mp3]@water the plant
-conductor@noun@/kənˈdʌktər/@[sound:conductor_noun_us.mp3]@The mirror would be protected by placing lightning conductors close by.
-nifty@adjective@/ˈnɪfti/@[sound:nifty_adjective_us.mp3]@no nifty portable
-offing@noun@/ˈɔːfɪŋ/@[sound:offing_noun_us.mp3]@in the offing
-mighty@adjective@/ˈmaɪti/@[sound:mighty_adjective_us.mp3]@scientists could find out what happens when mighty currents meet matter
-menace@noun@/ˈmenəs/@[sound:menace_noun_us.mp3]@we’ll be able to confront some other meteorological menaces.
-hail@noun@/heɪl/@[sound:hail_noun_us.mp3]@We think we could prevent hail by inducing lightning
-hailstone@noun@/ˈheɪlstəʊn/@[sound:hailstone_noun_us.mp3]@preventing the formation of the giant hailstones that threaten crops
-cult@noun@/kʌlt/@[sound:cult_noun_us.mp3]@comes from the early Roman cult of a divinity as the head of the family.
-paterfamilias@noun@/ˌpætərfəˈmɪliæs/@[sound:paterfamilias_noun_us.mp3]@
-perpetuate@verb@/pərˈpetʃueɪt/@[sound:perpetuate_verb_us.mp3]@
-thence@adverb@/ðens/@[sound:thence_adverb_us.mp3]@
-astrology@noun@/əˈstrɑːlədʒi/@[sound:astrology_noun_us.mp3]@astrology or genetics
-folk@noun@/fəʊk/@[sound:folk_noun_us.mp3]@folk culture
-egghead@noun@/ˈeɡhed/@[sound:egghead_noun_us.mp3]@a person, especially a man, who is very clever => highbrow
-boffin@noun@/ˈbɑːfɪn/@[sound:boffin_noun_us.mp3]@
-denigration@noun@/ˌdenɪˈɡreɪʃn/@[sound:denigration_noun_us.mp3]@for many, ‘intellectual’ is a term of denigration.
-collate@verb@/kəˈleɪt/@[sound:collate_verb_us.mp3]@information is collated about early illnesses
-nobility@noun@/nəʊˈbɪləti/@[sound:nobility_noun_us.mp3]@home tutoring was common in the families of the nobility and wealthy
-corporal@noun@/ˈkɔːrpərəl/@[sound:corporal_noun_us.mp3]@bullying and corporal punishment were common at the best independent schools
-supremacy@noun@/suˈpreməsi/@[sound:supremacy_noun_us.mp3]@This does not minimise the supremacy of their achievements
-unpalatable@adjective@/ʌnˈpælətəbl/@[sound:unpalatable_adjective_us.mp3]@some of the things we learn from geniuses may prove unpalatable
-perseverance@noun@/ˌpɜːrsəˈvɪrəns/@[sound:perseverance_noun_us.mp3]@we should also recognise the price they may have paid in terms of perseverance, single-mindedness
-single-mindedness@noun@/ˌsɪŋɡl ˈmaɪndɪdnəs/@[sound:single-mindedness_noun_us.mp3]@single-minded
-integrity@noun@/ɪnˈteɡrəti/@[sound:integrity_noun_us.mp3]@to display great courage to preserve their integrity or to make their way to the top
-subject to@phrasal verb@@[sound:subject to_phrasal verb_us.mp3]@object to
-wear down@phrasal verb@@[sound:wear down_phrasal verb_us.mp3]@the basic material is worn down  and becomes older
-fury@noun@/ˈfjʊri/@[sound:fury_noun_us.mp3]@
-bear up@phrasal verb@@[sound:bear up_phrasal verb_us.mp3]@
-brew@verb@/bruː/@[sound:brew_verb_us.mp3]@portable enough to be taken to international sporting events to beam up at brewing storm clouds.
-denigrate@verb@/ˈdenɪɡreɪt/@[sound:denigrate_verb_us.mp3]@for many, ‘intellectual’ is a term of denigration.
-privileged@adjective@/ˈprɪvəlɪdʒd/@[sound:privileged_adjective_us.mp3]@
-pediatric@adjective@/ˌpiːdiˈætrɪk/@[sound:pediatric_adjective_us.mp3]@
-mist@noun@/mɪst/@[sound:mist_noun_us.mp3]@
-hard-won@adjective@/ˌhɑːrd ˈwʌn/@[sound:hard-won_adjective_us.mp3]@
-outrageous@adjective@/aʊtˈreɪdʒəs/@[sound:outrageous_adjective_us.mp3]@
-fabric@noun@/ˈfæbrɪk/@[sound:fabric_noun_us.mp3]@
-outstrip@verb@/ˌaʊtˈstrɪp/@[sound:outstrip_verb_us.mp3]@outdo, surpass, better, do better.
-inexorable@adjective@/ɪnˈeksərəbl/@[sound:inexorable_adjective_us.mp3]@the result of this law is not inexorable in the same way. (unstoppable, inevitable, unavoidable.)
-attain@verb@/əˈteɪn/@[sound:attain_verb_us.mp3]@Although more and more people attain an advanced age as a result of developments in medical care and better nutrition
-equilibrium@noun@/ˌiːkwɪˈlɪbriəm/@[sound:equilibrium_noun_us.mp3]@steadiness, balance, stability, #imbalance
-existent@adjective@/ɪɡˈzɪstənt/@[sound:existent_adjective_us.mp3]@in existence, extant, current
-immortality@noun@/ˌɪmɔːrˈtæləti/@[sound:immortality_noun_us.mp3]@the state of living forever or being remembered forever.
-striking@adjective@/ˈstraɪkɪŋ/@[sound:striking_adjective_us.mp3]@outstanding, prominent, noticeable
-parameter@noun@/pəˈræmɪtər/@[sound:parameter_noun_us.mp3]@limitation, boundary, restriction.
-mammoth@noun@/ˈmæməθ/@[sound:mammoth_noun_us.mp3]@enormous, massive, immense, huge, # tiny
-Fahrenheit@adjective@/ˈfærənhaɪt/@[sound:Fahrenheit_adjective_us.mp3]@
+dispiriting@adjective@/dɪˈspɪrɪtɪŋ/@[sound:dispiriting_adjective_us.mp3]@a dispiriting experience/failure
+dog@verb@/dɔːɡ/@[sound:dog_verb_us.mp3]@the measurements were dogged by the ‘black drop’ effect.
+diffraction@noun@/dɪˈfrækʃn/@[sound:diffraction_noun_us.mp3]@This is due to diffraction of light.
+halo@noun@/ˈheɪləʊ/@[sound:halo_noun_us.mp3]@The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun’s disc.
+refract@verb@/rɪˈfrækt/@[sound:refract_verb_us.mp3]@this showed astronomers that Venus was surrounded by a thick layer of gases refracting sunlight around it
+labour@verb@/ˈleɪbər/@[sound:labour_verb_us.mp3]@astronomers laboured hard to analyse the results of these expeditions to observe Venus transits.
+rod@noun@/rɑːd/@[sound:rod_noun_us.mp3]@The AU is a cosmic measuring rod
+spectacle@noun@/ˈspektəkl/@[sound:spectacle_noun_us.mp3]@more of an astronomical spectacle than a scientifically important event.
+circuit@noun@/ˈsɜːrkɪt/@[sound:circuit_noun_us.mp3]@Each of these three functions utilizes a different circuit in the brain.
+naysayer@noun@/ˈneɪseɪər/@[sound:naysayer_noun_us.mp3]@Naysayers might suggest that the brain is irrelevant
+march@verb@/mɑːrtʃ/@[sound:march_verb_us.mp3]@to understand why some people march to a different drumbeat, the onward march of intensive farming has seemed unstoppable 
+iconoclast@noun@/aɪˈkɑːnəklæst/@[sound:iconoclast_noun_us.mp3]@
+hardwired@adjective@/ˌhɑːrdˈwaɪərd/@[sound:hardwired_adjective_us.mp3]@Perception is not something that is hardwired into the brain.
+curse@noun@/kɜːrs/@[sound:curse_noun_us.mp3]@It is a learned process, which is both a curse and an opportunity for change.
+conjecture@noun@/kənˈdʒektʃər/@[sound:conjecture_noun_us.mp3]@these conjectures have their basis in the statistical likelihood of one interpretation over another 
+impediment@noun@/ɪmˈpedɪmənt/@[sound:impediment_noun_us.mp3]@Fear is a major impediment to thinking
+ridicule@noun@/ˈrɪdɪkjuːl/@[sound:ridicule_noun_us.mp3]@fear of uncertainty and fear of public ridicule
+phobia@noun@/ˈfəʊbiə/@[sound:phobia_noun_us.mp3]@These may seem like trivial phobias
+afflict@verb@/əˈflɪkt/@[sound:afflict_verb_us.mp3]@But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population.
+inhibit@verb@/ɪnˈhɪbɪt/@[sound:inhibit_verb_us.mp3]@do not let inhibit their reactions
+variant@noun@/ˈveriənt/@[sound:variant_noun_us.mp3]@It is simply a common variant of human nature (bien the)
+setting@noun@/ˈsetɪŋ/@[sound:setting_noun_us.mp3]@manage people in a business setting.
+committee@noun@/kəˈmɪti/@[sound:committee_noun_us.mp3]@
+alienation@noun@/ˌeɪliəˈneɪʃn/@[sound:alienation_noun_us.mp3]@Iconoclasts face alienation and failure
+objective@noun@/əbˈdʒektɪv/@[sound:objective_noun_us.mp3]@adj=unbiased=khach quan, noun=muc dich=goal
+deteriorate@verb@/dɪˈtɪriəreɪt/@[sound:deteriorate_verb_us.mp3]@
+invective@noun@/ɪnˈvektɪv/@[sound:invective_noun_us.mp3]@Popular linguistic debate regularly deteriorates into invective and polemic.
+aptitude@noun@/ˈæptɪtuːd/@[sound:aptitude_noun_us.mp3]@job aptitude
+inherently@adverb@/ɪnˈherəntli/@[sound:inherently_adverb_us.mp3]@one variety of language has an inherently higher value than others
+propound@verb@/prəˈpaʊnd/@[sound:propound_verb_us.mp3]@The view is propounded especially in relation to grammar and vocabulary, and frequently with reference to pronunciation
+threefold@adjective, adverb@/ˈθriːfəʊld/@[sound:threefold_adjective, adverb_us.mp3]@https://dictionary.cambridge.org/dictionary/english/threefold, having three parts
+codify@verb@/ˈkɑːdɪfaɪ/@[sound:codify_verb_us.mp3]@lập điều lệ; soạn luật lệ; soạn thành luật lệ, they wanted to codify the principles of their languages
+authoritarian@adjective@/əˌθɔːrəˈteriən/@[sound:authoritarian_adjective_us.mp3]@The authoritarian nature of the approach is best characterised by its reliance on ‘rules’ of grammar
+characterize@verb@/ˈkærəktəraɪz/@[sound:characterize_verb_us.mp3]@hellochao, mô tả ai/cái gì như là cái gì, show/describe, tiêu biểu = typical of
+proscribe@verb@/prəʊˈskraɪb/@[sound:proscribe_verb_us.mp3]@prescribe => quy định, proscribe => bài trừ, cấm
+custom@noun@/ˈkʌstəm/@[sound:custom_noun_us.mp3]@phong tục, tục lệ, thói quen
+tenet@noun@/ˈtenɪt/@[sound:tenet_noun_us.mp3]@this view has become the tenet of the modern linguistic approach 
+adherent@noun@/ədˈhɪrənt/@[sound:adherent_noun_us.mp3]@Prescriptive grammarians have been presented as blind adherents to a historical tradition.
+quasi-@combining form@/kweɪzaɪ/@[sound:quasi-_combining form_us.mp3]@The opposition has even been presented in quasi-political terms 
+tide@noun@/taɪd/@[sound:tide_noun_us.mp3]@
+propeller@noun@/prəˈpelər/@[sound:propeller_noun_us.mp3]@the power in sea turbines comes from tidal currents which turn blades similar to ships’ propellers
+Dutch@adjective@/dʌtʃ/@[sound:Dutch_adjective_us.mp3]@
+undercut@verb@/ˌʌndərˈkʌt/@[sound:undercut_verb_us.mp3]@
+ailing@adjective@/ˈeɪlɪŋ/@[sound:ailing_adjective_us.mp3]@and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry.
+advance@verb@/ədˈvæns/@[sound:advance_verb_us.mp3]@sites are well advanced at the University (develop)
+jointly@adverb@/ˈdʒɔɪntli/@[sound:jointly_adverb_us.mp3]@a venture jointly funded by the department of Trade
+saline@adjective@/ˈseɪliːn/@[sound:saline_adjective_us.mp3]@the hostile saline environment (hostile = opposed)
+subsidiary@adjective@/səbˈsɪdieri/@[sound:subsidiary_adjective_us.mp3]@a subsidiary of IT power
+indented@adjective@/ɪnˈdentɪd/@[sound:indented_adjective_us.mp3]@The best sites are between islands or around heavily indented coasts 
+seaweed@noun@/ˈsiːwiːd/@[sound:seaweed_noun_us.mp3]@
+submerge@verb@/səbˈmɜːrdʒ/@[sound:submerge_verb_us.mp3]@Another slight concern is submerged debris floating into the blades.
+spare@noun@/sper/@[sound:spare_noun_us.mp3]@to instruct it to use spares to change the failing parts
+Pluto@noun@/ˈpluːtəʊ/@[sound:Pluto_noun_us.mp3]@sao diem vuong
+switchover@noun@/ˈswɪtʃəʊvər/@[sound:switchover_noun_us.mp3]@
+shun@verb@/ʃʌn/@[sound:shun_verb_us.mp3]@Shannon developed Information Theory, but shunned the resulting acclaim.
+inveigle@verb@/ɪnˈveɪɡl/@[sound:inveigle_verb_us.mp3]@which has since inveigled its way into a host of applications
+ravage@verb@/ˈrævɪdʒ/@[sound:ravage_verb_us.mp3]@The trick, Shannon showed, is to find ways of packaging up – coding – information to cope with the ravages of noise
+superfluous@adjective@/suːˈpɜːrfluəs/@[sound:superfluous_adjective_us.mp3]@, by stripping out superfluous (‘rebundant’) bits data which contributed little real information.
+metallic@adjective@/məˈtælɪk/@[sound:metallic_adjective_us.mp3]@Marie Curie struggled to obtain pure radium in the metallic state
+chief@adjective@/tʃiːf/@[sound:chief_adjective_us.mp3]@
+blow@noun@/bləʊ/@[sound:blow_noun_us.mp3]@The sudden death of her husband in 1906 was a bitter blow to Marie Curie
+henceforth@adverb@/ˌhensˈfɔːrθ/@[sound:henceforth_adverb_us.mp3]@
+professorship@noun@/prəˈfesərʃɪp/@[sound:professorship_noun_us.mp3]@she was appointed to the professorship
+earnest@adjective@/ˈɜːrnɪst/@[sound:earnest_adjective_us.mp3]@began to operate in earnest
+contingent@adjective@/kənˈtɪndʒənt/@[sound:contingent_adjective_us.mp3]@the movements they see in the mirror are contingent on their own
+empirical@adjective@/ɪmˈpɪrɪkl/@[sound:empirical_adjective_us.mp3]@empirical investigations
+dab@verb@/dæb/@[sound:dab_verb_us.mp3]@to dab some red powder on the noses of children who were playing in front of a mirror
+powder@verb@/ˈpaʊdər/@[sound:powder_verb_us.mp3]@to dab some red powder on the noses of children who were playing in front of a mirror
+longitudinal@adjective@/ˌlɑːndʒəˈtuːdənl/@[sound:longitudinal_adjective_us.mp3]@theo chiều dọc
+conviction@noun@/kənˈvɪkʃn/@[sound:conviction_noun_us.mp3]@The conviction that historical relics provide infallible testimony about past is rooted in the nineteenth
+infallible@adjective@/ɪnˈfæləbl/@[sound:infallible_adjective_us.mp3]@The conviction that historical relics provide infallible testimony about past is rooted in the nineteenth
+testimony@noun@/ˈtestɪməʊni/@[sound:testimony_noun_us.mp3]@The conviction that historical relics provide infallible testimony about past is rooted in the nineteenth 
+evident@adjective@/ˈevɪdənt/@[sound:evident_adjective_us.mp3]@it is now evident that 
+artefact@noun@/ˈɑːrtɪfækt/@[sound:artefact_noun_us.mp3]@historical relics
+endure@verb@/ɪnˈdʊr/@[sound:endure_verb_us.mp3]@public faith in their veracity endures
+veracity@noun@/vəˈræsəti/@[sound:veracity_noun_us.mp3]@public faith in their veracity endures
+tangible@adjective@/ˈtændʒəbl/@[sound:tangible_adjective_us.mp3]@a tangible relic 
+showcase@noun@/ˈʃəʊkeɪs/@[sound:showcase_noun_us.mp3]@like storage rooms of objects packed together in showcases
+lay@adjective@/leɪ/@[sound:lay_adjective_us.mp3]@the information accompanying the objects often made little sense to the lay visitor/Historically, some 15% of that has been laid waste by poor management practices.
+heritage@noun@/ˈherɪtɪdʒ/@[sound:heritage_noun_us.mp3]@di san
+re-enactment@noun@/ˌriː ɪˈnæktmənt/@[sound:re-enactment_noun_us.mp3]@the re–enactment of historical events is increasingly popular
+intolerable@adjective@/ɪnˈtɑːlərəbl/@[sound:intolerable_adjective_us.mp3]@
+fantasy@noun@/ˈfæntəsi/@[sound:fantasy_noun_us.mp3]@and move away from fantasy
+prejudice@noun@/ˈpredʒədɪs/@[sound:prejudice_noun_us.mp3]@visitors would do it for themselves, based on their own ideas, misconceptions and prejudices
+transitory@adjective@/ˈtrænzətɔːri/@[sound:transitory_adjective_us.mp3]@has to do with the transitory nature of the materials themselves
+cathedral@noun@/kəˈθiːdrəl/@[sound:cathedral_noun_us.mp3]@thanh duong
+dwelling@noun@/ˈdwelɪŋ/@[sound:dwelling_noun_us.mp3]@cathedrals have a longer lifespan than the dwellings of ordinary people.
+premises@noun@/ˈpremɪsɪz/@[sound:premises_noun_us.mp3]@The same applies to the furnishings and other contents of the premises.
+nostalgia@noun@/nəˈstældʒə/@[sound:nostalgia_noun_us.mp3]@No wonder that people who stroll around exhibitions are filled with nostalgia
+monument@noun@/ˈmɑːnjumənt/@[sound:monument_noun_us.mp3]@ di tich
+irrigation@noun@/ˌɪrɪˈɡeɪʃn/@[sound:irrigation_noun_us.mp3]@for drinking, bathing, watering animals and irrigation
+utilitarian@adjective@/ˌjuːtɪlɪˈteriən/@[sound:utilitarian_adjective_us.mp3]@the significance of this invention goes beyond its utilitarian application.
+heyday@noun@/ˈheɪdeɪ/@[sound:heyday_noun_us.mp3]@thời kì hoàng kim
+aquifer@noun@/ˈækwɪfər/@[sound:aquifer_noun_us.mp3]@tang ngam nuoc
+recede@verb@/rɪˈsiːd/@[sound:recede_verb_us.mp3]@descending from ground level to the water source as it recedes following the rains.
+tier@noun@/tɪr/@[sound:tier_noun_us.mp3]@Some wells are vast, open craters with hundreds of steps paving each sloping side, often in tiers.
+embellish@verb@/ɪmˈbelɪʃ/@[sound:embellish_verb_us.mp3]@he intricate decorative sculptures that embellish many stepwells
+churn@verb@/tʃɜːrn/@[sound:churn_verb_us.mp3]@churn butter
+derelict@adjective@/ˈderəlɪkt/@[sound:derelict_adjective_us.mp3]@many are derelict and dry
+silt@noun@/sɪlt/@[sound:silt_noun_us.mp3]@but became silted up following a flood during the 13th century. (stepwells bi đọng bùn)
+immaculate@adjective@/ɪˈmækjələt/@[sound:immaculate_adjective_us.mp3]@pristine = immaculate = spotless = original condition  (nguyên sơ, không bị hư hại)
+shrine@noun@/ʃraɪn/@[sound:shrine_noun_us.mp3]@intricately carved shrines (mieu)
+ornate@adjective@/ɔːrˈneɪt/@[sound:ornate_adjective_us.mp3]@which are supported by ornate pillars overlook the steps. (coverted with a lot of decoration)
+neglect@noun@/nɪˈɡlekt/@[sound:neglect_noun_us.mp3]@following years of neglect
+gaze@verb@/ɡeɪz/@[sound:gaze_verb_us.mp3]@Tourists flock to wells in far-flung corners of India to gaze in wonder at these architectural marvels from hundreds of years ago,
+ingenuity@noun@/ˌɪndʒəˈnuːəti/@[sound:ingenuity_noun_us.mp3]@ingenuity  and artistry
+frontier@noun@/frʌnˈtɪr/@[sound:frontier_noun_us.mp3]@as internal frontiers have been abolished
+haulage@noun@/ˈhɔːlɪdʒ/@[sound:haulage_noun_us.mp3]@road haulage traffic.
+tip@verb@/tɪp/@[sound:tip_verb_us.mp3]@the distribution between modes has tipped sharply in favour of road transport 
+imperative@adjective@/ɪmˈperətɪv/@[sound:imperative_adjective_us.mp3]@a new imperative-sustainable development 
+freight@noun@/freɪt/@[sound:freight_noun_us.mp3]@rail freight services are facing marginalisation
+revitalize@verb@/ˌriːˈvaɪtəlaɪz/@[sound:revitalize_verb_us.mp3]@to revitalise other modes of transport 
+logistics@noun@/ləˈdʒɪstɪks/@[sound:logistics_noun_us.mp3]@better quality of services, logistics, technology
+artery@noun@/ˈɑːrtəri/@[sound:artery_noun_us.mp3]@road transport would keep the lion’s share of the market and continue to concentrate on saturated arteries
+trans-@prefix@/trænz/@[sound:trans-_prefix_us.mp3]@in the trans-European network
+quartet@noun@/kwɔːrˈtet/@[sound:quartet_noun_us.mp3]@quintet
+fuse@verb@/fjuːz/@[sound:fuse_verb_us.mp3]@wanted to revolutionise popular music with songs that fused black and white music
+syndrome@noun@/ˈsɪndrəʊm/@[sound:syndrome_noun_us.mp3]@Cialdini believes that this ‘follow-the-leader syndrome, is dangerous, 
+pervasive@adjective@/pərˈveɪsɪv/@[sound:pervasive_adjective_us.mp3]@The principle of social proof is so pervasive that we don’t even recognise it
+veteran@noun@/ˈvetərən/@[sound:veteran_noun_us.mp3]@veteran  employees (nhan vien ki cuu)
+deepen@verb@/ˈdiːpən/@[sound:deepen_verb_us.mp3]@to deepens every individual’s engagement in the project
+overbearing@adjective@/ˌəʊvərˈberɪŋ/@[sound:overbearing_adjective_us.mp3]@the leader is overbearing.
+passivity@noun@/pæˈsɪvəti/@[sound:passivity_noun_us.mp3]@crew members of multipilot aircraft exhibit a sometimes deadly passivity
+wrestle@verb@/ˈresl/@[sound:wrestle_verb_us.mp3]@spent decades wrestling with the enigma of the Industrial Revolution
+enigma@noun@/ɪˈnɪɡmə/@[sound:enigma_noun_us.mp3]@spent decades wrestling with the enigma of the Industrial Revolution
+cupboard@noun@/ˈkʌbərd/@[sound:cupboard_noun_us.mp3]@kitchen cupboard
+antiseptic@noun@/ˌæntiˈseptɪk/@[sound:antiseptic_noun_us.mp3]@the antiseptic  properties
+succumb@verb@/səˈkʌm/@[sound:succumb_verb_us.mp3]@without succumbing to water-borne diseases such as dysentery
+dysentery@noun@/ˈdɪsənteri/@[sound:dysentery_noun_us.mp3]@kiet ly
+quarter@noun@/ˈkwɔːrtər/@[sound:quarter_noun_us.mp3]@allowed urban communities to flourish at close quarters (part of town), D.	Macfarlanes case has been strengthened by support from notable quarters (person/group)
+distinguished@adjective@/dɪˈstɪŋɡwɪʃt/@[sound:distinguished_adjective_us.mp3]@the distinguished medical historian
+appraisal@noun@/əˈpreɪzl/@[sound:appraisal_noun_us.mp3]@recently wrote a favourable appraisal of his research (favourable?)
+alight on@phrasal verb@@[sound:alight on_phrasal verb_us.mp3]@Historians had alighted on one interesting factor
+sanitation@noun@/ˌsænɪˈteɪʃn/@[sound:sanitation_noun_us.mp3]@các hệ thống vệ sinh, Sanitation did not become widespread until the 19th century.
+incidence@noun@/ˈɪnsɪdəns/@[sound:incidence_noun_us.mp3]@that there was a change in the incidence of water-borne disease at that time
+regulate@verb@/ˈreɡjuleɪt/@[sound:regulate_verb_us.mp3]@whatever the British were drinking must have been important in regulating disease.
+malt@noun@/mɔːlt/@[sound:malt_noun_us.mp3]@mach nha
+contention@noun@/kənˈtenʃn/@[sound:contention_noun_us.mp3]@(out of contention for sth) pushed these other countries out of contention for the revolution.
+harness@noun@/ˈhɑːrnɪs/@[sound:harness_noun_us.mp3]@In Boekaerts’ (1991) review of emotion the learning of very high IQ and highly achieving children, she found emotional forces in harness.
+medium@noun@/ˈmiːdiəm/@[sound:medium_noun_us.mp3]@the practice of interpreting or ‘reading’ each medium follows different conventions.
+facsimile@noun@/fækˈsɪməli/@[sound:facsimile_noun_us.mp3]@it has always been possible to make very accurate facsimiles of pretty well any fine art work.
+apprentice@noun@/əˈprentɪs/@[sound:apprentice_noun_us.mp3]@artists seemed perfectly content to assign the reproduction of their creations to their workshop apprentices as regular ‘bread and butter’ work.
+temporal@adjective@/ˈtempərəl/@[sound:temporal_adjective_us.mp3]@prescribed temporal sequence (prescribed= chỉ định)
+superficially@adverb@/ˌsuːpərˈfɪʃəli/@[sound:superficially_adverb_us.mp3]@Thus art works themselves encourage us to view them superficially, without appreciating the richness of detail 
+suppress@verb@/səˈpres/@[sound:suppress_verb_us.mp3]@critical practices can emerge when spontaneous criticism is suppressed
+aristocrat@noun@/əˈrɪstəkræt/@[sound:aristocrat_noun_us.mp3]@In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure
+afford@verb@/əˈfɔːrd/@[sound:afford_verb_us.mp3]@Herculaneum afforded citizens the opportunity to escape to their vacation villas (provide sb with sth)
+amorphous@adjective@/əˈmɔːrfəs/@[sound:amorphous_adjective_us.mp3]@tourism industry involves concepts that have remained amorphous to both analysts and decision makers
+chlorophyll@noun@/ˈklɔːrəfɪl/@[sound:chlorophyll_noun_us.mp3]@Summer leaves are green because they are full of chlorophyll
+evergreen@adjective@/ˈevərɡriːn/@[sound:evergreen_adjective_us.mp3]@evergreen conifers being an exception 
+dismantle@verb@/dɪsˈmæntl/@[sound:dismantle_verb_us.mp3]@the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs ( This had been dismantled in 1933) thao do
+unmask@verb@/ˌʌnˈmæsk/@[sound:unmask_verb_us.mp3]@This unmasking explains the autumn colours of yellow and orange
+soluble@adjective@/ˈsɑːljəbl/@[sound:soluble_adjective_us.mp3]@water-soluble plant pigments
+pigment@noun@/ˈpɪɡmənt/@[sound:pigment_noun_us.mp3]@
+herbivorous@adjective@/ɜːrˈbɪvərəs/@[sound:herbivorous_adjective_us.mp3]@herbivorous insects
+infestation@noun@/ˌɪnfeˈsteɪʃn/@[sound:infestation_noun_us.mp3]@and would be easily able to mount chemical defences against infestation.
+sport@verb@/spɔːrt/@[sound:sport_verb_us.mp3]@No one has as yet ascertained whether more robust trees sport the brightest leaves
+salvage@noun@/ˈsælvɪdʒ/@[sound:salvage_noun_us.mp3]@Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible? 
+exquisitely@adverb@/ɪkˈskwɪzɪtli/@[sound:exquisitely_adverb_us.mp3]@Chlorophyll exquisitely evolved to capture the energy of sunlight
+maple@noun@/ˈmeɪpl/@[sound:maple_noun_us.mp3]@cay phong
+sunblock@noun@/ˈsʌnblɑːk/@[sound:sunblock_noun_us.mp3]@
+seafaring@adjective@/ˈsiːferɪŋ/@[sound:seafaring_adjective_us.mp3]@the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people
+derelict@adjective@/ˈderəlɪkt/@[sound:derelict_adjective_us.mp3]@An agricultural worker, digging in the grounds of a derelict plantation
+plantation@noun@/plænˈteɪʃn/@[sound:plantation_noun_us.mp3]@An agricultural worker, digging in the grounds of a derelict plantation
+rim@noun@/rɪm/@[sound:rim_noun_us.mp3]@Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside.
+(the) Pacific Ocean@@/pəˌsɪfɪk ˈəʊʃn/@[sound:(the) Pacific Ocean__us.mp3]@Thai Binh Duong
+nagging@adjective@/ˈnæɡɪŋ/@[sound:nagging_adjective_us.mp3]@Those nagging headwinds, he argues, may have been the key to their success.
+seafarer@noun@/ˈsiːferər/@[sound:seafarer_noun_us.mp3]@mariner
+backstop@noun@/ˈbækstɑːp/@[sound:backstop_noun_us.mp3]@its scores of intervisible islands forming a backstop for mariners riding the trade winds home.
+presuppose@verb@/ˌpriːsəˈpəʊz/@[sound:presuppose_verb_us.mp3]@All this presupposes one essential detail, 
+rig@verb@/rɪɡ/@[sound:rig_verb_us.mp3]@But nobody has any idea what their canoes looked like or how they were rigged
+thinly@adverb@/ˈθɪnli/@[sound:thinly_adverb_us.mp3]@perhaps they were too thinly stretched to venture farther.
+tinder@noun@/ˈtɪndər/@[sound:tinder_noun_us.mp3]@Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires 
+fan@verb@/fæn/@[sound:fan_verb_us.mp3]@and decades of experience fighting fires fanned by the ‘Santa Ana Winds’.
+erratically@adverb@/ɪˈrætɪkli/@[sound:erratically_adverb_us.mp3]@The wildfires themselves are generally hotter, faster, and spread more erratically than in the past.
+siege@noun@/siːdʒ/@[sound:siege_noun_us.mp3]@Megafires, also called ‘siege fires’
+acre@noun@/ˈeɪkər/@[sound:acre_noun_us.mp3]@that burn 500,000 acres or more
+precipitation@noun@/prɪˌsɪpɪˈteɪʃn/@[sound:precipitation_noun_us.mp3]@the region has had significantly below normal precipitation in many recent years.
+adjunct@noun@/ˈædʒʌŋkt/@[sound:adjunct_noun_us.mp3]@adjunct professor of biology at Clark University 
+scorch@verb@/skɔːrtʃ/@[sound:scorch_verb_us.mp3]@some of the largest fires in state history scorched thousands of acres
+personnel@noun@/ˌpɜːrsəˈnel/@[sound:personnel_noun_us.mp3]@personnel are meeting the peculiar challenges of neighborhood 
+canyon@noun@/ˈkænjən/@[sound:canyon_noun_us.mp3]@
+dilapidated@adjective@/dɪˈlæpɪdeɪtɪd/@[sound:dilapidated_adjective_us.mp3]@dilapidated equipment, old fire engines, and insufficient blueprints 
+serpentine@adjective@/ˈsɜːrpəntiːn/@[sound:serpentine_adjective_us.mp3]@serpentine canyon roads
+jurisdiction@noun@/ˌdʒʊrɪsˈdɪkʃn/@[sound:jurisdiction_noun_us.mp3]@we found that other jurisdictions and states were willing to offer mutual-aid help
+temperament@noun@/ˈtemprəmənt/@[sound:temperament_noun_us.mp3]@people can reshape their temperaments
+amount to@phrasal verb@@[sound:amount to_phrasal verb_us.mp3]@these qualities amount to habitual behaviour that determines the way we respond to the world (habitual?)
+reticence@noun@/ˈretɪsns/@[sound:reticence_noun_us.mp3]@his reticence would prove disastrous in the lecture hall.
+disastrous@adjective@/dɪˈzæstrəs/@[sound:disastrous_adjective_us.mp3]@his reticence would prove disastrous in the lecture hall.
+spontaneous@adjective@/spɑːnˈteɪniəs/@[sound:spontaneous_adjective_us.mp3]@Now my extroverted behaviour is spontaneous
+stamina@noun@/ˈstæmɪnə/@[sound:stamina_noun_us.mp3]@The physical stamina required for this sport is intense
+untangle@verb@/ˌʌnˈtæŋɡl/@[sound:untangle_verb_us.mp3]@Streeter learned to untangle her fears from her judgment of what her body and mind could do.
+nervous system@noun@/ˈnɜːrvəs sɪstəm/@[sound:nervous system_noun_us.mp3]@he than kinh, how cerebrospinal fluid nourishes the developing nervous system
+courage@noun@/ˈkɜːrɪdʒ/@[sound:courage_noun_us.mp3]@we think of courage in physical terms but ordinary life demands something else
+intimidate@verb@/ɪnˈtɪmɪdeɪt/@[sound:intimidate_verb_us.mp3]@The new manager was intimidating staff 
+obligation@noun@/ˌɑːblɪˈɡeɪʃn/@[sound:obligation_noun_us.mp3]@moral obligation (bon phan, nghia vu, bat buoc?)
+allegation@noun@/ˌæləˈɡeɪʃn/@[sound:allegation_noun_us.mp3]@looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations
+march@noun@/mɑːrtʃ/@[sound:march_noun_us.mp3]@they sometimes play an important role in the forward march of evolution.
+forefather@noun@/ˈfɔːrfɑːðər/@[sound:forefather_noun_us.mp3]@to tien
+connotation@noun@/ˌkɑːnəˈteɪʃn/@[sound:connotation_noun_us.mp3]@The word has ugly connotations thanks largely to Cesare 
+medic@noun@/ˈmedɪk/@[sound:medic_noun_us.mp3]@a 19th-century Italian medic who argued that
+throwback@noun@/ˈθrəʊbæk/@[sound:throwback_noun_us.mp3]@criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state.
+root@noun@/ruːt/@[sound:root_noun_us.mp3]@took root (​(of an idea) to become accepted widely)
+crop up@phrasal verb@@[sound:crop up_phrasal verb_us.mp3]@Yet almost since the idea took root, exceptions have been cropping up.
+minuscule@adjective@/ˈmɪnəskjuːl/@[sound:minuscule_adjective_us.mp3]@Many of these have minuscule limbs; some look more like snakes than lizards 
+hind@adjective@/haɪnd/@[sound:hind_adjective_us.mp3]@hind_1 limbs
+womb@noun@/wuːm/@[sound:womb_noun_us.mp3]@The answer may lie in the womb
+sprout@verb@/spraʊt/@[sound:sprout_verb_us.mp3]@sprout hind limb buds (buds?)
+obstruct@verb@/əbˈstrʌkt/@[sound:obstruct_verb_us.mp3]@although there is light, it is obstructed and scattered by the dirt in the water. 
+manoeuvre@noun@/məˈnuːvər/@[sound:manoeuvre_noun_us.mp3]@Given the questions of how to manoeuvre in the dark
+uncanny@adjective@/ʌnˈkæni/@[sound:uncanny_adjective_us.mp3]@blind humans sometimes seem to have an uncanny sense of obstacles in their path
+phantom@noun@/ˈfæntəm/@[sound:phantom_noun_us.mp3]@like the referred pain in a phantom limb
+the seabed@noun@/ðə ˈsiːbed/@[sound:the seabed_noun_us.mp3]@
+entwine@verb@/ɪnˈtwaɪn/@[sound:entwine_verb_us.mp3]@The history of human civilization is entwined with the history of ways we have learned to manipulate water resources
+occupant@noun@/ˈɑːkjəpənt/@[sound:occupant_noun_us.mp3]@nine major systems supplied the occupants of Rome with as much water per person as is provided in many parts of the industrial world today.
+monumental@adjective@/ˌmɑːnjuˈmentl/@[sound:monumental_adjective_us.mp3]@Unprecedented construction of tens of thousands of monumental engineering projects designed to control floods
+reiterate@verb@/riˈɪtəreɪt/@[sound:reiterate_verb_us.mp3]@As the United Nations report on access to water reiterated in November 2001, 
+replenish@verb@/rɪˈplenɪʃ/@[sound:replenish_verb_us.mp3]@Groundwater aquifers* are being pumped down faster than they are naturally replenished in part of India, 
+established@adjective@/ɪˈstæblɪʃt/@[sound:established_adjective_us.mp3]@from some established water organizations
+hypnosis@noun@/hɪpˈnəʊsɪs/@[sound:hypnosis_noun_us.mp3]@Even if these peripheral details are a bit elusive, they come back readily in hypnosis 
+readily@adverb@/ˈredɪli/@[sound:readily_adverb_us.mp3]@Even if these peripheral details are a bit elusive, they come back readily in hypnosis 
+recall@verb@/rɪˈkɔːl/@[sound:recall_verb_us.mp3]@there is a follow-up class at which the students are stimulated to recall the material presented.
+dispense@verb@/dɪˈspens/@[sound:dispense_verb_us.mp3]@it must be dispensed with authority to be effective
+notoriety@noun@/ˌnəʊtəˈraɪəti/@[sound:notoriety_noun_us.mp3]@White suggestopedia has gained some notoriety through success in the teaching of modern languages
+scrape@verb@/skreɪp/@[sound:scrape_verb_us.mp3]@because they found ways of scraping a living at night (succeed)
+topple@verb@/ˈtɑːpl/@[sound:topple_verb_us.mp3]@toppled elevated highways, flattened office blocks and devastated the port area of Kobe.
+mystify@verb@/ˈmɪstɪfaɪ/@[sound:mystify_verb_us.mp3]@Japanese scholars have been mystified for ages 
+slender@adjective@/ˈslendər/@[sound:slender_adjective_us.mp3]@slender buildings are so stable. 
+erect@verb@/ɪˈrekt/@[sound:erect_verb_us.mp3]@It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel 
+dampen@verb@/ˈdæmpən/@[sound:dampen_verb_us.mp3]@to dampen the effect of sudden sideways movements 
+peg@noun@/peɡ/@[sound:peg_noun_us.mp3]@pegs and wedges 
+wedge@noun@/wedʒ/@[sound:wedge_noun_us.mp3]@pegs and wedges 
+relapse@noun@/ˈriːlæps/@[sound:relapse_noun_us.mp3]@
+dispense@verb@/dɪˈspens/@[sound:dispense_verb_us.mp3]@its architecture was made mainly of wood and the staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object (get rid of or stop using)
+batter@verb@/ˈbætər/@[sound:batter_verb_us.mp3]@because of the typhoons that batter Japan in the summer, 
+eaves@noun@/iːvz/@[sound:eaves_noun_us.mp3]@Japanese builders learned to extend the eaves of buildings further beyond the walls
+overhang@verb@/ˌəʊvərˈhæŋ/@[sound:overhang_verb_us.mp3]@Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan.
+tile@noun@/taɪl/@[sound:tile_noun_us.mp3]@to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.
+porcelain@noun@/ˈpɔːrsəlɪn/@[sound:porcelain_noun_us.mp3]@to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.
+earthenware@noun@/ˈɜːrθnwer/@[sound:earthenware_noun_us.mp3]@to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles.
+flex@verb@/fleks/@[sound:flex_verb_us.mp3]@the Japanese pagoda with its massive trunk-like central pillar known as shinbashira simply flexes and sways during a typhoon or earthquake
+startling@adjective@/ˈstɑːrtlɪŋ/@[sound:startling_adjective_us.mp3]@But the answer is not so simple because the startling thing is that the shinbashira actually carries no load at all. 
+stationary@adjective@/ˈsteɪʃəneri/@[sound:stationary_adjective_us.mp3]@In short, the shinbashira was acting like an enormous stationary pendulum. 
+slither@verb@/ˈslɪðər/@[sound:slither_verb_us.mp3]@under pressure a pagoda's loose stack of floors could be made to slither to and fro independent of one another
+fro@adverb@/frəʊ/@[sound:fro_adverb_us.mp3]@under pressure a pagoda's loose stack of floors could be made to slither to and fro independent of one another
+taper@verb@/ˈteɪpər/@[sound:taper_verb_us.mp3]@the building tapers
+jolt@verb@/dʒəʊlt/@[sound:jolt_verb_us.mp3]@the building responds to even the most powerful jolt of an earthquake with a graceful swaying, never an abrupt shaking. 
+collateral damage@noun@/kəˌlætərəl ˈdæmɪdʒ/@[sound:collateral damage_noun_us.mp3]@The cost is in the collateral damage of the very methods of food production that have made the food cheaper
+monoculture@noun@/ˈmɑːnəkʌltʃər/@[sound:monoculture_noun_us.mp3]@tham canh
+colossal@adjective@/kəˈlɑːsl/@[sound:colossal_adjective_us.mp3]@But the damage it has caused has been colossal
+stretch@noun@/stretʃ/@[sound:stretch_noun_us.mp3]@many birds have vanished from huge stretches of countryside
+hedgerow@noun@/ˈhedʒrəʊ/@[sound:hedgerow_noun_us.mp3]@a line of bushes planted along the edge of a field or road (hàng rào)
+pond@noun@/pɑːnd/@[sound:pond_noun_us.mp3]@Thousands of miles of hedgerows, thousands of ponds have disappeared (ao ho)
+filth@noun@/fɪlθ/@[sound:filth_noun_us.mp3]@The faecal filth of salmon farming has driven wild salmon from many of the sea lochs (dirty)
+faecal@adjective@/ˈfiːkl/@[sound:faecal_adjective_us.mp3]@The faecal filth of salmon farming has driven wild salmon from many of the sea lochs (dirty)
+anus@noun@/ˈeɪnəs/@[sound:anus_noun_us.mp3]@
+wheat@noun@/wiːt/@[sound:wheat_noun_us.mp3]@lua mi
+arable@adjective@/ˈærəbl/@[sound:arable_adjective_us.mp3]@This is equivalent to £208 for every hectare of arable land and permanent pasture
+pasture@noun@/ˈpæstʃər/@[sound:pasture_noun_us.mp3]@This is equivalent to £208 for every hectare of arable land and permanent pasture
+conservative@adjective@/kənˈsɜːrvətɪv/@[sound:conservative_adjective_us.mp3]@it was a conservative estimate
+prop up@phrasal verb@@[sound:prop up_phrasal verb_us.mp3]@which provide the enormous subsidies propping up modern intensive farming
+mill@noun@/mɪl/@[sound:mill_noun_us.mp3]@and travelling to running mills
+rot@verb@/rɑːt/@[sound:rot_verb_us.mp3]@An improvement of the rotted network was considered necessary 
+arduous@adjective@/ˈɑːrdʒuəs/@[sound:arduous_adjective_us.mp3]@made the journey on foot even more arduous. difficult, needing a lot of effort and energy  (gian truân)
+handrail@noun@/ˈhændreɪl/@[sound:handrail_noun_us.mp3]@It made sense to improve the paths by building steps, handrails and footbridges. (footbridges?)
+wheelbarrow@noun@/ˈwiːlbærəʊ/@[sound:wheelbarrow_noun_us.mp3]@
+repel@verb@/rɪˈpel/@[sound:repel_verb_us.mp3]@Ants store food, repel attackers and use chemical signals to contact one another 
+antibiotic@noun@/ˌæntibaɪˈɑːtɪk/@[sound:antibiotic_noun_us.mp3]@Farmer ants secrete antibiotics to control other fungi 
+domesticate@verb@/dəˈmestɪkeɪt/@[sound:domesticate_verb_us.mp3]@thuan hoa, it seems that ants are continually domesticating new species.
+strain@noun@/streɪn/@[sound:strain_noun_us.mp3]@the ants improve or modify the fungi by regularly swapping and sharing strains with neighboring ant colonies. (type of a plant/animal/disease)
+chamber@noun@/ˈtʃeɪmbər/@[sound:chamber_noun_us.mp3]@developing and maintaining underground cities of specialised chambers and tunnels (room)
+scout@noun@/skaʊt/@[sound:scout_noun_us.mp3]@at the end of which the scout was removed in order to observe what her team might do
+exhaustive@adjective@/ɪɡˈzɔːstɪv/@[sound:exhaustive_adjective_us.mp3]@During the course of this exhaustive study
+attached@adjective@/əˈtætʃt/@[sound:attached_adjective_us.mp3]@Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals
+footing@noun@/ˈfʊtɪŋ/@[sound:footing_noun_us.mp3]@A number of techniques developed since the 1950s however have placed the study of these subjects on a sounder and more objective footing. 
+interbreed@verb@/ˌɪntərˈbriːd/@[sound:interbreed_verb_us.mp3]@members of an interbreeding human population will share a set of such variants. 
+deduce@verb@/dɪˈduːs/@[sound:deduce_verb_us.mp3]@
+molar@noun@/ˈməʊlər/@[sound:molar_noun_us.mp3]@rang cam
+credence@noun@/ˈkriːdns/@[sound:credence_noun_us.mp3]@a view that gives credence to the idea of three main migrations. 
+sitter@noun@/ˈsɪtər/@[sound:sitter_noun_us.mp3]@The first proposes the extension and systematic sitter of surveillance sites to monitor forest decline
+accentuate@verb@/əkˈsentʃueɪt/@[sound:accentuate_verb_us.mp3]@However, their effects are probably accentuated by climatic factors
+relent@verb@/rɪˈlent/@[sound:relent_verb_us.mp3]@The fifth resolution relented the European research network on the physiology of trees
+peruse@verb@/pəˈruːz/@[sound:peruse_verb_us.mp3]@While perusing a book on the monuments of Egypt, 
+hieroglyph@noun@/ˈhaɪərəɡlɪf/@[sound:hieroglyph_noun_us.mp3]@she noticed a hieroglyph that showed a row of men standing in odd postures.
+posture@noun@/ˈpɑːstʃər/@[sound:posture_noun_us.mp3]@she noticed a hieroglyph that showed a row of men standing in odd postures.
+trolley@noun@/ˈtrɑːli/@[sound:trolley_noun_us.mp3]@
+instant@noun@/ˈɪnstənt/@[sound:instant_noun_us.mp3]@The instant the sail opened into the wind
+jerk@noun@/dʒɜːrk/@[sound:jerk_noun_us.mp3]@There was a huge initial force - five times larger than the steady state force,’ Gharib says. This jerk meant that kites could lift huge weights, 
+pulley@noun@/ˈpʊli/@[sound:pulley_noun_us.mp3]@rong roc
+uncannily@adverb@/ʌnˈkænɪli/@[sound:uncannily_adverb_us.mp3]@
+foe@noun@/fəʊ/@[sound:foe_noun_us.mp3]@to dump flaming debris on their foes.
+civil engineer@noun@/ˌsɪvl endʒɪˈnɪr/@[sound:civil engineer_noun_us.mp3]@
+adobe@noun@/əˈdəʊbi/@[sound:adobe_noun_us.mp3]@who wants to put up buildings with adobe roofs supported by concrete arches 
+arch@noun@/ɑːrtʃ/@[sound:arch_noun_us.mp3]@who wants to put up buildings with adobe roofs supported by concrete arches 
+fishery@noun@/ˈfɪʃəri/@[sound:fishery_noun_us.mp3]@Alaska's commercial fisheries have developed into some of the largest in the world.
+onset@noun@/ˈɑːnset/@[sound:onset_noun_us.mp3]@With the onset of statehood
+spawn@verb@/spɔːn/@[sound:spawn_verb_us.mp3]@There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. 
+commission@verb@/kəˈmɪʃn/@[sound:commission_verb_us.mp3]@(MSC)*** commissioned a review of the Alaska salmon fishery.
+subsistence@noun@/səbˈsɪstəns/@[sound:subsistence_noun_us.mp3]@subsistence communities throughout the region,    even those necessary for subsistence purposes.
+arousal@noun@/əˈraʊzl/@[sound:arousal_noun_us.mp3]@Their physiological arousal also declined quickly to the same levels as those of the control subjects.
+transient@adjective@/ˈtrænʃnt/@[sound:transient_adjective_us.mp3]@only transient effects were studied. 
+hothouse@noun@/ˈhɑːthaʊs/@[sound:hothouse_noun_us.mp3]@since hothouse production of tomatoes and other produce has been in vogue for some time.
+despoil@verb@/dɪˈspɔɪl/@[sound:despoil_verb_us.mp3]@we despoiled most of the land we worked, often turning verdant, natural ecozones into semi-arid deserts.
+verdant@adjective@/ˈvɜːrdnt/@[sound:verdant_adjective_us.mp3]@we despoiled most of the land we worked, often turning verdant, natural ecozones into semi-arid deserts.
+tractor@noun@/ˈtræktər/@[sound:tractor_noun_us.mp3]@by cutting out the need for tractors, ploughs and shipping
+plough@noun@/plaʊ/@[sound:plough_noun_us.mp3]@by cutting out the need for tractors, ploughs and shipping
+millennium@noun@/mɪˈleniəm/@[sound:millennium_noun_us.mp3]@
+tilt@verb@/tɪlt/@[sound:tilt_verb_us.mp3]@including concepts ranging from rolling eggs to tilting tanks
+monorail@noun@/ˈmɑːnəʊreɪl/@[sound:monorail_noun_us.mp3]@google photo
+propeller@noun@/prəˈpelər/@[sound:propeller_noun_us.mp3]@the vast turning propeller of a ship (google photo)
+ribcage@noun@/ˈrɪbkeɪdʒ/@[sound:ribcage_noun_us.mp3]@the ribcage of a whale or the spine of a fish
+spine@noun@/spaɪn/@[sound:spine_noun_us.mp3]@the ribcage of a whale or the spine of a fish
+thoroughly@adverb@/ˈθɜːrəli/@[sound:thoroughly_adverb_us.mp3]@completely & carefully (painstakingly)
+crane@noun@/kreɪn/@[sound:crane_noun_us.mp3]@google photo
