@@ -57,7 +57,7 @@ with open(input_file) as rfile:
                 data = data + line_list[1]
             result.append(data)
         else:
-            err.append(line_list[0])
+            err.append(line.rstrip('\n'))
 
 with open(output_file, 'w') as wfile:
     wfile.write("\n".join(result))
