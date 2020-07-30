@@ -1,135 +1,358 @@
-blonde_1|blonde hair
-compartment|I keep them with my passport in an inside compartment in my backpack
-probationary|a probationary two-month period
-statutory|Apart from any statutory public holidays (Q17) we ask that you don’t book any holidays until after your six-month apprenticeship has finished
-unhygienic|This is partly to encourage healthy eating at work and partly to stop people from eating at their workstation, which is unhygienic.
-drain_1|they build channels to drain away the water in case of flooding. => drainage channels
-sensible|hợp lý
-thermal_1|ocean thermal energy conversion
-constant_1|khong ngot, lien mien => the source is constant, and there’s no danger of waves coming to a standstill. 
-standstill|the source is constant, and there’s no danger of waves coming to a standstill. 
-erratic_1|But the problem with ocean waves is that they’re erratic
-breakwater|as the tide rises, water rushes through the breakwater, activating the turbines, which turn a generator to produce electricity.
-painkiller|thuoc giam dau
-conservatory|nhạc viện
-jawbone|xương hàm dưới
-proverb|tục ngữ
-amusement|giải trí, tiêu khiển - It was eventually taken over by a company who owned a number of amusement parks
-wax|there are life-like moving wax models dressed in costumes of different periods in the past, 
-archer|There’ll shortly be a show in which you can see archers displaying their skill with a bow and arrow
-falcon|chim ung
-roam|mammoths and other animals like bears were able to roam around the whole area.
-muddled|it’s all a bit muddled at present
-whim|Generally, weather was attributed to the whims of the gods, 
-rite|Many ancient civilisations developed rites such as (Q31) dances in order to make the weather gods look kindly on them. (nghi thuc, le nghi)
-celestial|He also described celestial phenomena such as haloes – that is, bright circles of light around the sun, the moon and bright stars – and comets. 
-renaissance|thoi ky phuc hung
-shepherd_1|nguoi chan cuu
-telegraph
-complimentary|there’s a complimentary shuttle bus for guests.
-carnival|now the town council’s organising a (Q23) carnival in the summer
-flautist|There’s a flautist who says she loves playing in the band, trumpeter 
-rehearse|We rehearse twice a week after school
-orchestra|dan nhac
-trilogy
-sob_1|they include breathing, sobbing, laughing and whistling (khoc nuc no)
-clarinet
-terrace|sân thượng; sân hiên
-cabin|phong ngu
-ceramic_1| and terracotta
-canter_2|phi nuoc nho => gallop
-medieval
-ballroom 
-factual|whether the teaching should be factual – giving them information about the world – or ethical, teaching them values
-rig_2|to create (Q33) maps of the seabed before rigs and pipelines are installed. 
-marble|có vân như cẩm thạch
-acoustic|acoustic waves
-offload|where an AUV working on the seabed offloads data to a second AUV
-cargo 
-germination|Why is Jack interested in investigating seed germination?
-fumes|noise and fumes from trucks and lorries
-bend_2|khuc cua
-upheaval|urban environments represent huge upheavals
-crow
-perch_1|they are able to perch on ledges on the walls of city buildings
-anatomy|she's been looking not at their anatomy but at their behaviour
-bold_1|brave
-squirrel_1
-dismissive|a few were keen to learn but most were quite dismissive at first
-water-repellent|
-tailor_2|there is a danger of tailoring what you say to fit whatever slides you can find
-textile
-carpet
-rinse_1|when I rinsed the material, the colour just washed away
-turmeric|cu nghe
-shellfish
-monogamous|mot vo mot chong
-sled|winter sled festival
-relay1_2|we have the team relay event
-carpet_2|When the snow melts in summer, the mountain slopes are carpeted in flowers and plants
-hut|You'll spend the night in our hut half-way up the mountain.
-stimulant|the use of coffee as a stimulant became important
-perishable
-choir|Most years we have a children's choir, but this year the local army cadets offered to perform
-cadet|Most years we have a children's choir, but this year the local army cadets offered to perform
-centenary|so, we've celebrating her centenary
-liaise|He's already liaised with the managers of the theatres we're going to visit
-rehearsal|I had hoped we could sit in on a rehearsal at one of the theatres
-playwright|how she worked with the playwright
-dignitary|and the mayor and all the other dignitaries of the town will be attending
-date-back
-fruitful|I also think that's more fruitful than placing it within the history of the genre
-intolerant|A general habit of optimism in one person could make them intolerant of a colleague who's constantly pessimistic
-spiral|it can spiral out of countrol
-autocratic|it might seem that an autocratic form of management - chief executive gives orders and everyone else has to obey
-mouthpiece
-mediator
-draw_2|attraction
-mercury
-excrete|and if it's ingested by a fish it's not excreted
-advert
-fortnight
-garment
-intrusive
-parliament
-nectar
-lime
-alumnus|alumna (a female alumnus) (cựu học sinh), apprentice (người học việc), dropout (người bỏ học giữa chừng), intern (thực tập sinh), protege (truyền nhân), scholar (học giả), senior (sinh viên năm cuối), teacher's pet (con nhà người ta), truant (chuyên gia cúp học), valedictorian (thủ khoa)
-venue|the venue for the swimming
-petition|she organized petitions and demostrations
-satire|His satire of the legal system is pretty powerful
-guardian
-debtor
-stove_1|cai lo
-patronize|https://vdict.com/patronize,1,0,0.html
-rinse_1
-excavation|khai quat - During the excavation of acient Babylon
-cylinder|hinh tru
-inscription|câu viết, khắc trên...
-pumice|đá bọt - google image
-aqueduct|cong dan nuoc - google image
-unsanitary|khong hop ve sinh, thieu ve sinh
-launder|giat ui
-craft_1|nghe thu cong
-association|hiep hoi
-sodium|natri
-insulate
-sawdust|mạc cưa, mù cưa
-refrigeration|su lam lanh, uop lanh
-pit_1|hố - pits were dug in the ground
-textile|day may
-windmill|coi xay gio -> watermill
-lace|ren -> lace and ribbons
-stagecoach|image
-cutlery
-mortgage
-annuity|tiền trợ cấp hàng năm
-leaflet
-rodent|loai gam nham
-octopus
-Switzerland
-new-zealand
-condominium
-snorkelling
-billiards
-embroidery
+fickle
+bandwagon|Twitter learned the hard way, after jumping on the video bandwagon => flourished for a short time
+fad|mốt nhất thời
+ephemeral
+minor_2|tre vi thanh nien
+flighty|hay thay doi
+trendsetter|= (social media) tastemakers=influencers
+brunch|have a brunch (breakfast + lunch)
+morph|TikTok is quickly morphing from its roots in amateruish lipsynching clips to a destination for more elaborate videos cut
+uncharted|Yan was stepping into uncharted territory
+scramble_1|There was a scramble for the best seats (su tranh gianh)
+embrace_1|accept, hold, include
+grasp_2|understanding
+self-esteem
+fallible|infallible
+conventional|traditional
+conduct_2|behaviour
+sanctuary|khu bao ton
+acclimate|thich nghi
+impulsive|boc dong
+slum_1|khu o chuot
+squander|phung phi
+vandalism
+darn_1|khi that
+quark|a quark doctor| lang bam
+stain|I can’t just let them stain master’s name
+ambush|phuc kich
+abduct| abductors
+bystander|onlooker, spectator?
+lenient|khoan hong
+tabloid|bao la cai
+sensational|giat gan
+comical|lo bich
+turbulent|hon loan
+retrospect|retrospective meetings
+overhaul|xem xét để đại tu
+painstaking|Painstaking process: quá trình cực khổ
+globetrotter|nguoi du lich the gioi
+vanity|you don't go after the vanity anymore
+resonate|dong cam
+surveillance|surveillance camera
+whistleblower|nguoi to giac
+whereabout|we can find his whereabout
+enlist|we should enlist the help of various clans
+composure|I lost my composure for a bit
+entrench|an entrenched feature of business reality.
+indolent|Indolent husbands leave Vietnamese women burnt out
+uptight|no need to be so uptight, we were just talking
+hiatus|Ethiopia resumed full internet connection on Thursday morning (July 23) after a 23-day hiatus
+bust_1|Hanoi and Saigon police busted an online gambling ring worth VND20 trillion ($858 million) Wednesday, leading to 21 arrests.
+guise|utilized online gambling methods under the guise of games like poker and lottery
+severance|The company has decided on a severance pay of a month’s salary for each year an employee has worked.
+radiate|Da Nang buildings radiate love in a time of semi-lockdown
+weld_1|the steel sections were bolted rather than welded together (hàn)
+replenish|The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes
+precipitation
+timber
+wreck_1|this was a plan to examine a number of known wrecks in the Solent
+excavation|Further excavations revealed stray pieces of timber and an iron gun.
+climax|But the climax to the operation came when, on 5 May 1971, part of the ship’s frame was uncovered.
+treasure
+salvage_2|The decision whether or not to salvage the wreck was not an easy one,
+suction|clear of the seabed and the suction effect of the surrounding mud
+the-pacific-ocean|the Pacific, Atlantic, Indian, Southern (Antarctic), and Arctic Oceans, Thái Bình Dương, Đại Tây Dương, Ấn Độ Dương, Nam Đại Dương, và Bắc Băng Dương
+strand_2|Daniken believed they were built by stranded extraterrestrials. (mắc kẹt)
+folklore|Local folklore maintains that the statues walked (truyền thuyết, văn hóa dân gian)
+pollen
+lush|the island had been covered in lush palm forests for thousands of years. (rừng cọ tươi tốt)
+palm|the island had been covered in lush palm forests for thousands of years. (rừng cọ tươi tốt)
+firewood|When the islanders cleared the forests for firewood and farming, the forests didn’t grow back.
+chieftain|Diamond interprets them as power displays by rival chieftains (thủ lĩnh)
+topple|When the wood was gone and civil war began, the islanders began toppling the moai. (kéo đổ)
+excavation|Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources 
+windbreak|chắn gió
+tilt|The figures’ fat bellies tilted them forward (Phần bụng bự trên các bức tượng khiến chúng nghiêng về phía trước)
+groove|Archaeological finds of nuts from the extinct Easter Island palm show tiny grooves
+overrun_2|The rats arrived along with the settlers, and in just a few years, Hunt and Lipo calculate, they would have overrun the island. (tràn ngập)
+doom_2|They (rats) would have prevented the reseeding of the slow-growing palm trees and thereby doomed Rapa Nui’s forest, 
+decimate|Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877.
+shrivel|Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877.
+abject|a case of abject failure
+objectivity|An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art
+shed_1|Could the same approach also shed light on abstract twentieth-century pieces, 
+geometrical|geometrical blocks of colour (algebra & geometry, arithmetic)
+haphazard|seemingly haphazard arrangements of splashed paint on canvas
+splash_1|seemingly haphazard arrangements of splashed paint on canvas
+encase|paintings consist exclusively of horizontal and vertical lines encasing blocks of colour
+flit|but with the altered versions they would flit across a piece more rapidly.
+recur|repeated motifs recurring in different scales
+cocoon
+silkworm
+mulberry|mulberry silkworms, several mulberry trees
+unravel|one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread.
+wind2_2|Lei Tzu found that she could wind this thread around her fingers.
+reel|She also devised a special reel to draw the fibres from the cocoon into a single thread
+weave_1|so that they would be strong enough to be woven into fabric
+cultivation|it is certainly known that silk cultivation has existed in China for several millennia. 
+caste|even peasants, the lowest caste, were also entitled to wear silk.
+bowstring
+mediterranean_1| mediterranean sea
+merchant| thương gia => merchandise
+esteem_2|Italy enjoys an esteemed reputation
+stifle|The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry. (bóp nghẹt)
+attentiveness|maintain an intense attentiveness, he has a poor concentration span
+undeterred|which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside. (After four years of injury problems, Thomas remains undeterred.)
+tern
+handout|While local gulls will dive voraciously for such handouts, the tern flies on.
+instinctive|it is driven at that moment by an instinctive sense of something we humans find admirable: larger purpose.
+beast
+aphid|rệp, bọ chét
+constriction|the severity of its constriction at three bottlenecks.
+passage|threatening to choke off their passageway
+resoluteness|We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer.
+intuitive
+alleged|The alleged gap can be narrowed 
+tantalize|The reader must remain a tantalized spectator rather than an involved participant
+aficionado|mathematics aficionados
+testimonial|mathematics can develop this skill is shown by these two testimonials
+untangle|twins offer a precious opportunity to untangle the influence of genes and the environment
+ailment|If identical twins are more similar to each other with respect to an ailment than fraternal twins are
+pinpoint|studying the differences between identical twins to pinpoint the influence of environment
+interplay|to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease
+twist_2|But twin studies took a surprising twist in the 1980s
+make-up_2|used this mountain of data to identify how far twins were affected by their genetic makeup.
+immense|If you think of our DNA as an immense piano keyboard and our genes as the 
+fetus|when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.
+hardwired|ban chat, It’s very clear when you look at twins that much of what they share is hardwired, nature
+trailblazer
+mothering
+texture|Perhaps this is because the very texture of a performer’s voice supplies an element of character.
+physiognomy|When voice textures fit the performer’s physiognomy and gestures
+evident|in the highly successful science-fiction film 2001, little dialogue was evident
+banal|a banal praise (sáo rỗng)
+breakneck|at breakneck speed
+dizzy|This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor.
+absurdity|This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor.
+gag|The audience is bounced from gag to gag 
+whirlwind| The audience is caught up in a whirlwind of activity in simply managing to follow the plot.
+subconsciously|unconsciously
+ominous|if the ‘click’ of an opening door is part of an ominous action such as a burglary
+suspense|this helps to engage the audience in a moment of suspense
+nuance|Such sounds are included so as to provide an appropriate emotional nuance
+siren|a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple.
+foreground|a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple.
+foreshadow|background music often foreshadows a change in mood.
+dissonant|dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster.
+spring_2|https://dictionary.cambridge.org/dictionary/english/spring-to-life?q=spring%2Bto%2Blife
+manifold|Of all mankinds manifold creations, language must take pride of place
+unparalleled|Without language, we could never have embarked on our ascent to unparalleled power 
+ingenious|based on an idea of ingenious simplicity
+eloquently|no one since has celebrated more eloquently the magnitude of its achievement
+incongruity|conceals a simple yet critical incongruity
+spit_2|amount to nothing more than a few haphazard spits and splutters, 
+interminable|from sighing the interminable boredom of existence 
+exertion|all apparently without the slightest exertion.
+deceptive|Yet it is precisely this deceptive ease which makes language a victim of its own success
+estrangement|Often, it is only the estrangement of foreign tongues
+thrifty|the thrifty compactness of its construction.
+elastic
+buoyant
+coffin
+beehive
+insulate|Its bark grows up to 20 cm in thickness, insulating the tree like a coat
+sapling|From the planting of a cork sapling to the first harvest takes 25 years
+strip_2|If the bark is stripped on a day when it’s too cold – or when the air is damp – the tree will be damaged.
+level|use a lever to lever something (đòn bẩy)
+stopper
+thermal|thermal insulation
+desertification|prevent desertification in the regions where they are planted
+dignify|Many forms of collecting have been dignified with a technical name
+antique|đồ cổ
+dear|buying cheap and selling dear can give the collector a sense of triumph.	
+engrossing|hấp dẫn collecting can be totally engrossing, and can give a strong sense of personal fulfilment
+arson|the course is intended for prospective arson investigators
+torch_2|it’s not unknown for a firefighter to torch a building
+synthesis|synthesis of an online debate
+hypocritical|giả nhân, giả nghĩa - The writer characterizes his hero as stingy and hypocritical
+entrench|cultural values are highly entrenched in food and agricultural systems worldwide
+procurement|the procurement of goods, that the procurement and holding of stocks by governments 
+intermediary|market price volatility is often worsened by the presence of intermediary purchasers
+dictate|taking advantage of farmers’ vulnerability, dictate prices. 
+elevation|Cusco lies on a high plateau at an elevation of more than 3,000 metres,
+blast_2|a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle
+ruin|tàn tích - to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before.
+spring|capable of making considerable springs when in pursuit of their prey (sundden jump)
+spellbound|the sight held me spellbound
+hindsight|that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey
+juggle|the constant juggling of two languages creates a need to control how much a person accesses a language at any given time
+puppet
+airborne|An airborne reintroduction programme (phong thích)
+respite|the often cloud-covered peak of Sierra Negra offers respite from the barren terrain below.
+passage|a journey by ship - the tortoises were taken on board these ships to act as food supplies during long ocean passages.
+lumbering|who had been lumbering around the island for around a hundred years.
+lumber|he took depicting the lumber trade, steamboats and waterfalls to enable him to make a living
+polio| bệnh bại liệt
+hybrid|The aim of this hybrid science is to create solutions for common geography-based health problems.
+overlay|and overlays the data with the geography of the region
+asthma
+arousal|When listening to our favourite songs, our body betrays all the symptoms of emotional arousal.
+dilate|The pupils in our eyes dilate - Đồng tử trong mắt chúng ta giãn ra
+repeal|marks an important step in repealing the precise underpinnings of ‘the potent pleasurable stimulus’ that is music.
+dorsal|in both the dorsal and ventral regions of the brain.
+dissect|Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern
+ingenious|in an ingenious tonal dance
+symphony|This ‘embodied meaning’ arises from the patterns the symphony invokes and then ignores.
+bead|this took the form of glazes used for coating stone beads
+lead2| chì - He attempted to counter the effect of clouding that sometimes occurred in blown glass by introducing lead to the raw materials used in the process.
+landfill|It saves used glass containers being sent to landfill
+boar|heo rừng
+denude|It involves letting trees return to places that have been denuded
+resonate|Some of them drive dynamic processes that resonate through the whole food chain
+articulate|in which campaigners articulate what they are for rather than only what they are against.
+plantation|as it hides in impenetrable plantations of young trees
+devolve|board business is devolved to committees in order to cope with the workload
+remuneration
+insatiable|directors have to ‘make the numbers’ every four months to meet the insatiable appetite of the market for more data.
+exhilarating|exhilarating outdoor activities 
+itinerary|additional features were added to help independent travellers devise their own customised itineraries
+agitated|whether feeling agitated and restless counts as boredom - kich dong
+restless|whether feeling agitated and restless counts as boredom - bon chon
+apathetic|tho o
+fester|https://www.hellochao.vn/tu-dien-tach-ghep-am/?act=search&type=word&sct=fester
+irritability|frustration and irritability
+enraptured|Classical music by an artificial composer has had audiences enraptured
+realize|it is still little more than a tool to realise the programmer’s own creative ideas. (hiện thực hóa)
+trawl|The software runs its own web searches and trawls through social media sites
+eerie|This gives the work an eerie, ghostlike quality
+laud|Human artists like the renowned Ellsworth Kelly are lauded for limiting their colour palette 
+condemn|and condemned him for his deliberately vague explanation of how the software worked
+outrage_2|phẫn nộ
+recoil|But why did so many people love the music, yet recoil when they discovered how it was composed
+speculation|when people experience art, they wonder what the artist might have been thinking or what the artist is trying to tell them. It seems obvious, therefore, that with computers producing art, this speculation is cut short 
+cinnamon|quế
+biblical|thuoc ve kinh thanh
+mourner|mourners attending funerals burnt cinnamon to create a pleasant scent (người đưa tang)
+spice|gia vị - the spice found its primary use as an additive to food and drink.
+flavour_2|nêm gia vị
+condiment
+banquet
+ailment|to cure various ailments
+indigestion|khó tiêu
+overland|bằng đường bộ - Because the overland trade route allowed for only small quantities of the spice to reach Europe
+spur_2|These prices, coupled with the increasing demand, spurred the search for new routes to Asia by Europeans 
+pliable|the Salagama would peel the bark off young shoots of the cinnamon plant in the rainy season, when the wet bark was more pliable. 
+curl_1|During the peeling process, they curled the bark into the ‘stick’ shape still associated with the spice today. 
+tribute|The Salagama then gave the finished product to the king as a form of tribute
+overrun|Dutch broke the 150-year Portuguese monopoly when they overran and occupied their factories
+vole|chuot dong
+mate_2|giao phối - 
+lamb|cừu con - triggers the motherly behaviour that sheep show towards their newborn lambs
+empathetic
+lonesome_1|a lonesome field
+disposition|tính khí/tình - a calm /irritable /cheerful /boastful disposition
+subtlety|the quality of being subtle
+posture|a shift in posture
+attuned|making people more attuned to their social environment
+manifest|these basic processes could manifest in different ways depending on individual differences and context.
+peripheral|This is especially true of trends that managers view as peripheral to their core markets.
+cede|they can jeopardize a company by ceding to rivals the opportunity to transform the industry
+proposition|to spur managers to think more expansively about how trends could engender new value propositions in their core markets, 
+infuse|ngấm - thereby infusing its value proposition with a green streak.
+avert|Creating the sub-brand allowed Coach to avert an across-the-board price cut
+apparel|trang phuc, may mặc - athletic apparel
+pedometer
+reinvigorate|
+clash_2|if aspects of the category clash with undesired outcomes of a trend
+counteract|làm mất tác dụng - there is an opportunity to counteract those changes by reaffirming the core values of your category.
+fizzy|fizzy drink: do uong co gas
+vein|vân (đá, gỗ, lá)
+stem_1|https://english.stackexchange.com/questions/315047/whats-the-difference-between-bole-stem-and-trunk#:~:text=The%20stem%20of%20the%20plant,%2C%20leaves%2C%20flowers%20and%20fruits.&text=The%20word%20stem%20usually%20refers,trunk%20refers%20to%20a%20tree.
+sap|nhua cay
+fibrous|The wall of the fruit has three layers: a waterproof outer layer, a fibrous middle layer and a hard, inner layer (coconut)
+charcoal|than cui
+germinate|studies suggest after about 110 days at sea they are no longer able to germinate - coconut
+coral
+absurd
+fit_1|fitting 26 children with audio-recording vests that captured language and sound during a typical eight-hour day. 
+babble_2|The study found that the more baby talk parents used, the more their youngsters began to babble
+synthesize|They played repeating vowel sounds made by a special synthesizing device that mimicked sounds made by either an adult woman or another baby
+succumb|the trading economy broke down or they succumbed to invasion and conflict
+pottery
+maiden|On her maiden voyage - trinh nu
+laden|She returned laden with tea, making the journey back to London in four months. 
+rudder|but then her rudder was severely damaged in stormy seas, making her impossible to steer
+gale|Badly damaged in a gale in 1922
+agitate|Several researchers are agitating for the immediate creation of protected zones for endangered soils.
+reconcile|thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values
+malady|treated as psychological maladies. 
+factual|Watson had no factual basis for his view of human action. 
+pedigree|But whatever its intellectual pedigree, the idea that governments should be responsible for promoting happiness is always a threat to human freedom.
+gallant|wicked witches and gallant heroes
+enchanting|she’s creating an enchanting world
+underpin|It underpins how we develop as intellectual, problem-solving adults 
+extol
+leaflet_1|They also distributed leaflets describing the dangers of cars 
+unanimously|Nevertheless, the council unanimously rejected the plan
+Danish
+vandalism|The system, however, was prone to vandalism and theft
+predisposition|While it seems likely that employees’ reactions to their job characteristics could be affected by a predisposition to view their work environment negatively
+dichotomy|This suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees.
+extrinsic|intrinsic
+excursion|The two men made a photographic excursion to Niagara Falls in 1860
+flare_2|phao sang - they cooperated on experiments with magnesium flares as a source of artificial light in 1865
+woodland|he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream. 
+shore|he sailed by yacht along the lower north shore of the St Lawrence Rive
+undertaking|This undertaking led in 1875 to a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax
+commission|This undertaking led in 1875 to a commission from the railway to record the principal structures along the almost-completed line connecting Montreal to Halifax
+squander|we are going to continue to squander more and more energy on keeping our buildings mechanically cool until we have run out of capacity
+sweeping|Short is calling for a sweeping reinvention of how skyscrapers and major public buildings are designed 
+ward|We discovered that 19th-century hospital wards could generate up to 24 air changes an hour 
+lament_1|lamenting the disappearance of expertly designed theatres
+miasmas|Miasmas were feared as the principal agents of disease and epidemics for centuries
+cholera 
+germ
+liability|Short contends that glass skyscrapers in London and around the world will become a liability over the next 20 or 30 years (rui ro)
+rhetoric|This rhetoric has also crept into the thinking of business leaders and entrepreneurs, 
+shot|Why is it that on paper the drive for organisation seems a sure shot for increasing productivity, but in reality falls well short of what is expected?
+scrap_2|This involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects.
+scrap_2|This involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects
+bandwagon|A word of warning to others thinking of jumping on this bandwagon:
+venerate|But we should not fear it – nor venerate one over the other
+extant|If an investigation of implicit theories reveals little correspondence between the extant implicit and explicit theories
+competency|nang luc
+lament_1|A VnExpress reader, Hai Nguyen, lamented the poor awareness show by local tourists
+heed_2|many ignorant and careless tourists pay no heed to protecting and preserving the precious resource in their eagerness to take selfies and photographs.
+primate|linh truong
+offensive|defensive
+ubiquity|although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species
+subdue|many insects that secrete powerful poison for subduing prey  - khuat phuc
+faeces
+pathogenic|These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi
+precedent|the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.
+recess_1|If we can shine a light on the darker recesses of nature’s medicine cabinet
+expound|while experts continue to expound a powerful argument for the importance of play in children’s lives
+dichotomy|Our society has created a false dichotomy between play and learning
+repertoire|build a repertoire of creative problem-solving skills
+consensus|Full consensus on a formal definition of play continues to elude the researchers and theorists who study it. (su dong thuan)
+elude|Full consensus on a formal definition of play continues to elude the researchers and theorists who study it. 
+discrete|Definitions range from discrete descriptions of various types of play
+spontaneous
+avenue|while guided play is an avenue through which parents and educators can provide more targeted learning experiences. (possibility - cambridge)
+pupa|con nhong - puapae
+fly_2|con ruoi
+jaw|and will not die of drought, of starvation or in the jaws of a predator.
+colossal|Colossal numbers of species are becoming extinct across the world
+outreach
+anaesthetic_1
+dismal|to answer a dismal question
+mussel
+bothersome
+entangle|Most of the dangers also involved large pieces of debris – animals getting entangled in trash, for example
+tanker|scientists don’t know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they’ve happened.
+conjure|a collection of marine debris in the northern Pacific Ocean – might conjure up a vast, floating trash island
+strand_2|A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean
+ring1_1|a group of people
+raft|They used rafts to ferry the Chinese across the river at the border (be)
+sprain_1|She slipped on a banana skin and sprained her ankle (bong gân)
+match_1|diem

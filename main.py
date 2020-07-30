@@ -63,4 +63,4 @@ with open(output_file, 'w') as wfile:
     wfile.write("\n".join(result))
 
 with open(error_file, 'w') as wfile:
-    wfile.write(''.join(err))
+    wfile.write("\n".join(err))
