@@ -4,35 +4,6 @@ import re
 import ssl
 
 
-separator = '@'
-input_file = 'input.txt'
-test_file = 'test.txt'
-output_file = 'output.txt'
-error_file = 'error.txt'
-audio_dir = '/Users/1041828/oxford_mp3/'
-
-result = list()
-err = list()
-with open(input_file) as rfile:
-    for line in rfile:
-        line_list = line.rstrip('\n').split('|')
-        print('processing... '+line_list[0])
-        word = line_list[0].lower().replace(" ", "-")
-        data = get_oxford(word)
-        if (data):
-            if (len(line_list) > 1):
-                data = data + line_list[1]
-            result.append(data)
-        else:
-            err.append(line_list[0])
-
-with open(output_file, 'w') as wfile:
-    wfile.write("\n".join(result))
-
-with open(error_file, 'w') as wfile:
-    wfile.write(''.join(err))
-
-
 def get_oxford(w):
     try:
         url = 'https://www.oxfordlearnersdictionaries.com/definition/english/'
@@ -64,3 +35,32 @@ def get_oxford(w):
         print('====================ERROR: ' + w)
         # print(urllib.error.HTTPError)
         return
+
+
+separator = '@'
+input_file = 'input.txt'
+test_file = 'test.txt'
+output_file = 'output.txt'
+error_file = 'error.txt'
+audio_dir = '/Users/1041828/oxford_mp3/'
+
+result = list()
+err = list()
+with open(input_file) as rfile:
+    for line in rfile:
+        line_list = line.rstrip('\n').split('|')
+        print('processing... '+line_list[0])
+        word = line_list[0].strip().lower().replace(" ", "-")
+        data = get_oxford(word)
+        if (data):
+            if (len(line_list) > 1):
+                data = data + line_list[1]
+            result.append(data)
+        else:
+            err.append(line_list[0])
+
+with open(output_file, 'w') as wfile:
+    wfile.write("\n".join(result))
+
+with open(error_file, 'w') as wfile:
+    wfile.write(''.join(err))
